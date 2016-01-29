@@ -1,0 +1,11 @@
+1. Write a script to grab Uber data. Including @Uber or #Uber.
+
+2. descriptive analysis: location, freq, keywords
+
+3. complaints:
+	aspects? (delay, high price, or low salary, violence)
+	complaints: geo graph
+	complaint trend for 3 month data.
+	event: uber strike; in paris uber driver assaulting.
+
+4. compare it with lyft if we have time
