@@ -97,15 +97,17 @@ def retrieve_tag(key_word):
         timeline = api.search.tweets(q=key_word, lang='en', count=100)
 
     ntweets = len(timeline['statuses'])
-    if ntweets < 100:
+    if ntweets == 0:
         return timeline
-    while ntweets == 100:
+    #### change 30000 to the total number of tweets you want
+    while ntweets > 0 and len(timeline['statuses']) < 30000:
         min_id = min([tweet["id"] for tweet in timeline['statuses']])
         try:
             next_timeline = api.search.tweets(q=key_word, lang='en', count=100, max_id=min_id - 1)
         except:
             print("Reached rate limit; sleeping 15 minutes")
             sleep(900)
+            print("Restarting")
             next_timeline = api.search.tweets(q=key_word, lang='en', count=100, max_id=min_id - 1)
 
         ntweets = len(next_timeline['statuses'])
