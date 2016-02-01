@@ -11,10 +11,11 @@ from nltk import word_tokenize, FreqDist
 import pandas as pd
 
 # don't forget to put in your credentials
-CONSUMER_KEY       = ""
-CONSUMER_SECRET    = ""
-OAUTH_TOKEN        = ""
-OAUTH_TOKEN_SECRET = ""
+CONSUMER_KEY = 'jfy4oqqk1figgCsoPmbbeQqsZ'
+CONSUMER_SECRET = 'Y3X9edCGhwQqq90VGXx86UW28ztMav102GClyPKmkzMFJz5iOX'
+OAUTH_TOKEN = '1721364175-LnbScZulpPhmnPQksyykYv4U38d59OOtYIMvki7'
+OAUTH_TOKEN_SECRET = 'xAKsHPwAiTYEjieOc5wOXz0WP1emeEU3QmN08sxsmoYUe'
+
 
 auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,
                            CONSUMER_KEY, CONSUMER_SECRET)
@@ -38,8 +39,28 @@ locations = [j['user']['location'] for i in uber_list for j in i['statuses']]
 
 # if want to pull out info for only verified account
 verified = [j['text'] for i in uber_list for j in i['statuses'] if j['user']['verified'] is True]
-names = [j['user']['screen_name'] for i in uber_list for j in i['statuses'] if j['user']['verified'] is True]
+names_ver = [j['user']['screen_name'] for i in uber_list for j in i['statuses'] if j['user']['verified'] is True]
 
+#write data down for offline usage
+with open("/Users/Xinyue_star/TwitterProject/data/uber_names.json", "w") as f:
+    json.dump(names, f, indent=4, sort_keys=True)
+    f.close()
+
+with open("/Users/Xinyue_star/TwitterProject/data/uber_texts.json", "w") as f:
+    json.dump(all_list, f, indent=4, sort_keys=True)
+    f.close()
+
+with open("/Users/Xinyue_star/TwitterProject/data/uber_loc.json", "w") as f:
+    json.dump(locations, f, indent=4, sort_keys=True)
+    f.close()
+
+with open("/Users/Xinyue_star/TwitterProject/data/uber_ver.json", "w") as f:
+    json.dump(verified, f, indent=4, sort_keys=True)
+    f.close()
+
+with open("/Users/Xinyue_star/TwitterProject/data/uber_name_ver.json", "w") as f:
+    json.dump(names_ver, f, indent=4, sort_keys=True)
+    f.close()
 
 text_uber = " ".join([text for text in all_list])
 textnltk_uber = nltk.Text(word_tokenize(text_uber))
