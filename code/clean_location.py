@@ -178,15 +178,6 @@ junk_loc = np.array(list_tmp)[junk_data]
 a = np.array([bool_loc(a, set(list_us)) for a in junk_loc])
 df3 = pd.DataFrame(index = junk_data[a])
 
-# citynames = [ct.lower() for ct in cities.keys()]
-
-# list_all_loc = np.array(list_tmp)
-# city_msk = np.array([bool_loc(a, set(citynames)) for a in np.array(list_tmp)])
-# top_pop_cities = list_all_loc[city_msk]
-# #create a data frame
-# ind_top_city = np.where(city_msk)
-# ind_only_usa = np.array(id_dict["tbd"])[np.where(a)]
-
 a = id_dict.pop("tbd")
 inds = list(id_dict.values())
 states_nm = list(id_dict.keys())
