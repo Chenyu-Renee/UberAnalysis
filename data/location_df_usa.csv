@@ -1,0 +1,884 @@
+,STATE,CITY,COUNTRY
+1,al,,USA
+5,ca,san jose,USA
+9,ca,,USA
+10,ca,los angeles,USA
+13,ny,new york,USA
+15,al,,USA
+19,il,chicago,USA
+20,ca,,USA
+23,ny,,USA
+24,tn,,USA
+26,,,USA
+27,il,chicago,USA
+32,fl,,USA
+33,hi,,USA
+36,fl,,USA
+37,tn,memphis,USA
+40,pa,philadelphia,USA
+41,wi,,USA
+42,ca,los angeles,USA
+45,,,USA
+47,pa,new york,USA
+53,ct,,USA
+55,ny,new york,USA
+59,az,,USA
+60,,,USA
+65,,,USA
+68,il,chicago,USA
+79,nv,las vegas,USA
+82,tx,austin,USA
+83,ky,,USA
+84,ma,,USA
+86,nc,,USA
+95,ny,new york,USA
+96,fl,,USA
+104,tn,,USA
+110,ga,,USA
+119,ny,,USA
+121,az,,USA
+122,fl,,USA
+123,oh,,USA
+125,ma,boston,USA
+149,ca,los angeles,USA
+152,ca,los angeles,USA
+160,co,denver,USA
+162,ca,,USA
+163,ca,,USA
+164,ca,,USA
+165,ca,,USA
+166,ca,,USA
+176,ny,new york,USA
+179,,,USA
+182,ca,san francisco,USA
+183,,,USA
+184,,,USA
+188,,,USA
+191,ny,new york,USA
+192,ny,new york,USA
+195,,,USA
+196,ca,san diego,USA
+197,,,USA
+198,la,los angeles,USA
+200,,,USA
+206,tx,,USA
+208,ca,,USA
+215,tx,san antonio,USA
+216,il,chicago,USA
+219,al,chicago,USA
+221,,,USA
+225,tx,fort worth,USA
+229,tx,austin,USA
+231,ma,,USA
+234,,,USA
+236,tx,houston,USA
+237,tx,houston,USA
+238,tx,houston,USA
+239,tx,houston,USA
+240,tx,houston,USA
+242,tx,houston,USA
+243,tx,houston,USA
+244,tx,houston,USA
+245,tx,houston,USA
+246,tx,,USA
+247,tx,houston,USA
+248,tx,houston,USA
+249,tx,houston,USA
+250,tx,houston,USA
+251,tx,houston,USA
+252,tx,houston,USA
+254,tx,houston,USA
+255,tx,houston,USA
+256,tx,,USA
+257,tx,houston,USA
+258,tx,houston,USA
+259,tx,houston,USA
+260,tx,houston,USA
+261,tx,houston,USA
+263,tx,houston,USA
+265,tx,houston,USA
+266,tx,houston,USA
+267,tx,houston,USA
+268,tx,houston,USA
+269,tx,houston,USA
+270,tx,houston,USA
+271,tx,houston,USA
+272,tx,houston,USA
+274,tx,austin,USA
+275,ny,new york,USA
+281,,,USA
+284,al,,USA
+290,ma,boston,USA
+294,ny,new york,USA
+296,tx,san antonio,USA
+300,nc,,USA
+303,nc,,USA
+312,,,USA
+321,,,USA
+323,,,USA
+327,mi,,USA
+330,nc,,USA
+335,,,USA
+338,,,USA
+340,,,USA
+341,tx,houston,USA
+345,ct,,USA
+354,,,USA
+355,,,USA
+356,ca,,USA
+366,ny,,USA
+367,ca,san francisco,USA
+376,ca,los angeles,USA
+381,tx,,USA
+382,ny,new york,USA
+384,co,denver,USA
+390,ca,san diego,USA
+398,wa,washington,USA
+399,ga,,USA
+400,tx,austin,USA
+409,ca,los angeles,USA
+410,fl,,USA
+413,il,chicago,USA
+414,ca,,USA
+419,ca,los angeles,USA
+423,ny,new york,USA
+424,ny,new york,USA
+426,pa,philadelphia,USA
+427,ca,san francisco,USA
+428,,,USA
+439,hi,,USA
+443,ca,los angeles,USA
+447,ky,,USA
+452,ca,,USA
+454,fl,,USA
+461,ny,new york,USA
+467,pa,philadelphia,USA
+470,pa,philadelphia,USA
+471,,,USA
+474,ny,new york,USA
+478,pa,philadelphia,USA
+479,ny,new york,USA
+482,ny,new york,USA
+483,pa,philadelphia,USA
+484,mi,,USA
+489,ny,new york,USA
+490,ny,new york,USA
+495,il,chicago,USA
+501,nv,las vegas,USA
+502,,,USA
+510,,,USA
+514,ny,new york,USA
+516,fl,,USA
+517,ca,san francisco,USA
+518,ri,,USA
+519,hi,,USA
+523,al,,USA
+524,ca,,USA
+526,fl,,USA
+527,ny,new york,USA
+529,ca,,USA
+530,ca,,USA
+533,ca,,USA
+534,,,USA
+540,ca,,USA
+542,tn,,USA
+543,ca,,USA
+545,tx,,USA
+546,al,,USA
+549,ca,,USA
+554,md,,USA
+557,il,chicago,USA
+564,il,chicago,USA
+565,fl,,USA
+566,,,USA
+569,ok,,USA
+570,ma,boston,USA
+575,oh,,USA
+581,mi,,USA
+582,tx,,USA
+583,al,,USA
+587,al,,USA
+593,tx,houston,USA
+596,ca,los angeles,USA
+597,ca,los angeles,USA
+601,tx,austin,USA
+602,ct,,USA
+609,,,USA
+611,pa,philadelphia,USA
+612,al,,USA
+615,ca,san francisco,USA
+619,ca,los angeles,USA
+620,nc,,USA
+636,ca,,USA
+639,ny,new york,USA
+640,ny,new york,USA
+645,,,USA
+649,pr,,USA
+651,fl,,USA
+652,ca,san francisco,USA
+653,fl,,USA
+661,fl,,USA
+662,al,,USA
+675,ca,,USA
+676,ca,,USA
+677,ca,,USA
+679,ca,,USA
+684,al,,USA
+689,co,denver,USA
+697,al,,USA
+699,,,USA
+706,pa,philadelphia,USA
+708,mn,,USA
+712,ca,,USA
+713,al,,USA
+714,tx,,USA
+727,pr,,USA
+730,fl,,USA
+732,ga,,USA
+737,ma,,USA
+744,il,chicago,USA
+746,fl,,USA
+748,tx,houston,USA
+753,al,,USA
+757,ny,,USA
+759,ny,new york,USA
+774,il,,USA
+782,nc,,USA
+789,ca,san francisco,USA
+798,al,,USA
+803,hi,,USA
+806,ca,san jose,USA
+807,il,chicago,USA
+808,nv,las vegas,USA
+812,,,USA
+817,,,USA
+818,ca,,USA
+824,ca,,USA
+828,nj,,USA
+830,al,,USA
+833,,,USA
+836,al,,USA
+839,tx,fort worth,USA
+841,ca,,USA
+843,ny,new york,USA
+844,nc,,USA
+845,ga,,USA
+847,tx,houston,USA
+850,nv,las vegas,USA
+851,ca,,USA
+855,nj,,USA
+857,wa,washington,USA
+871,ny,new york,USA
+874,ny,new york,USA
+878,pa,philadelphia,USA
+880,hi,,USA
+882,tx,,USA
+885,ny,new york,USA
+887,tx,austin,USA
+896,,,USA
+901,id,,USA
+903,al,,USA
+908,il,chicago,USA
+913,ny,new york,USA
+917,al,,USA
+930,ny,,USA
+931,ny,new york,USA
+939,tx,,USA
+941,il,chicago,USA
+955,tx,,USA
+958,ny,,USA
+988,ny,new york,USA
+990,al,,USA
+1018,fl,,USA
+1022,az,phoenix,USA
+1028,ca,san francisco,USA
+1033,mo,,USA
+1035,ca,,USA
+1036,nj,,USA
+1043,az,phoenix,USA
+1044,ny,,USA
+1047,az,phoenix,USA
+1048,az,phoenix,USA
+1049,az,phoenix,USA
+1051,az,phoenix,USA
+1052,az,phoenix,USA
+1054,az,phoenix,USA
+1056,nj,,USA
+1057,az,phoenix,USA
+1060,az,phoenix,USA
+1066,tx,,USA
+1072,or,portland,USA
+1075,al,,USA
+1076,co,denver,USA
+1082,ma,boston,USA
+1087,,,USA
+1091,co,denver,USA
+1094,mi,,USA
+1099,co,denver,USA
+1100,co,denver,USA
+1101,co,denver,USA
+1103,co,denver,USA
+1105,co,denver,USA
+1106,co,denver,USA
+1109,il,chicago,USA
+1110,co,denver,USA
+1111,co,denver,USA
+1115,co,denver,USA
+1117,co,denver,USA
+1118,mn,,USA
+1124,nj,,USA
+1126,ca,los angeles,USA
+1129,ny,new york,USA
+1134,pa,philadelphia,USA
+1138,ca,,USA
+1140,ny,,USA
+1156,va,,USA
+1160,md,,USA
+1164,ny,new york,USA
+1170,tx,houston,USA
+1174,ny,new york,USA
+1180,ny,new york,USA
+1181,ny,,USA
+1187,fl,,USA
+1193,,,USA
+1200,,,USA
+1202,tx,dallas,USA
+1204,tx,dallas,USA
+1205,tx,dallas,USA
+1207,tx,dallas,USA
+1209,tx,dallas,USA
+1211,tx,dallas,USA
+1214,tx,dallas,USA
+1217,tx,dallas,USA
+1220,tx,dallas,USA
+1221,tx,dallas,USA
+1225,tx,dallas,USA
+1228,al,,USA
+1229,al,,USA
+1231,tx,dallas,USA
+1246,tx,dallas,USA
+1248,tx,austin,USA
+1249,tx,dallas,USA
+1250,ny,,USA
+1258,nj,,USA
+1259,fl,,USA
+1265,ny,new york,USA
+1281,fl,,USA
+1284,ny,new york,USA
+1294,ca,,USA
+1295,ca,,USA
+1296,ca,,USA
+1297,ca,,USA
+1298,ca,,USA
+1319,ny,new york,USA
+1321,ny,,USA
+1322,tx,,USA
+1330,,,USA
+1333,ca,los angeles,USA
+1335,ca,los angeles,USA
+1349,az,phoenix,USA
+1351,az,phoenix,USA
+1352,az,phoenix,USA
+1355,ny,,USA
+1357,ny,,USA
+1358,az,phoenix,USA
+1359,az,phoenix,USA
+1364,az,phoenix,USA
+1366,az,phoenix,USA
+1368,az,phoenix,USA
+1371,az,phoenix,USA
+1372,az,phoenix,USA
+1374,in,,USA
+1375,az,phoenix,USA
+1378,az,phoenix,USA
+1380,az,phoenix,USA
+1386,az,phoenix,USA
+1389,az,phoenix,USA
+1392,az,phoenix,USA
+1395,va,,USA
+1408,co,,USA
+1444,ca,san diego,USA
+1457,,,USA
+1476,tx,,USA
+1486,ny,new york,USA
+1510,mo,,USA
+1511,co,,USA
+1563,ny,new york,USA
+1565,pa,,USA
+1596,ny,new york,USA
+1598,fl,,USA
+1600,ca,,USA
+1606,ca,,USA
+1607,ny,,USA
+1608,ny,,USA
+1609,ny,,USA
+1610,ny,,USA
+1615,ny,,USA
+1617,ny,,USA
+1618,ny,,USA
+1619,ny,,USA
+1620,ca,,USA
+1621,ca,,USA
+1622,ca,,USA
+1623,ca,,USA
+1624,ca,,USA
+1625,ny,,USA
+1626,ny,,USA
+1628,ny,,USA
+1629,ny,,USA
+1631,ny,,USA
+1632,ny,,USA
+1634,ny,,USA
+1636,mn,,USA
+1640,ny,,USA
+1641,ny,,USA
+1646,ca,los angeles,USA
+1653,ut,,USA
+1669,oh,,USA
+1670,ny,,USA
+1675,ny,,USA
+1679,ny,,USA
+1681,ny,,USA
+1683,ca,san francisco,USA
+1685,ca,san francisco,USA
+1695,tn,memphis,USA
+1709,,,USA
+1712,il,,USA
+1722,ca,,USA
+1725,sc,,USA
+1729,tx,,USA
+1731,tx,houston,USA
+1735,tx,houston,USA
+1753,ny,new york,USA
+1762,nv,las vegas,USA
+1767,ny,new york,USA
+1771,ca,san diego,USA
+1773,ca,,USA
+1779,il,chicago,USA
+1790,ga,,USA
+1793,ga,,USA
+1794,ny,new york,USA
+1796,wa,seattle,USA
+1804,,,USA
+1812,ca,san diego,USA
+1813,ca,san diego,USA
+1820,wa,washington,USA
+1822,tn,,USA
+1826,ca,,USA
+1827,il,chicago,USA
+1832,ny,new york,USA
+1837,ca,,USA
+1838,ca,,USA
+1839,ca,,USA
+1840,ca,,USA
+1841,ca,,USA
+1842,ca,,USA
+1843,ca,san diego,USA
+1856,ca,san francisco,USA
+1863,ny,,USA
+1864,wa,seattle,USA
+1865,,,USA
+1872,ca,san diego,USA
+1877,ca,,USA
+1884,nv,las vegas,USA
+1887,wa,washington,USA
+1889,ca,san francisco,USA
+1890,nc,,USA
+1892,co,,USA
+1893,ny,new york,USA
+1921,nv,las vegas,USA
+1926,mn,,USA
+1928,,,USA
+1934,al,,USA
+1935,wy,,USA
+1939,tx,dallas,USA
+1942,fl,,USA
+1944,ca,san francisco,USA
+1946,ny,,USA
+1949,tx,,USA
+1950,tx,,USA
+1956,ca,san francisco,USA
+1959,ca,,USA
+1966,ny,new york,USA
+1978,ca,los angeles,USA
+1989,tx,houston,USA
+2005,ca,san francisco,USA
+2013,fl,,USA
+2019,nv,las vegas,USA
+2020,ny,new york,USA
+2022,tx,austin,USA
+2024,wi,,USA
+2026,il,chicago,USA
+2051,ny,,USA
+2052,ny,new york,USA
+2058,ga,,USA
+2059,il,chicago,USA
+2066,oh,,USA
+2074,ca,,USA
+2075,ca,,USA
+2076,ca,,USA
+2077,ca,,USA
+2079,ca,,USA
+2080,,,USA
+2086,fl,,USA
+2090,tx,houston,USA
+2092,tx,houston,USA
+2093,il,chicago,USA
+2113,wi,,USA
+2117,mi,detroit,USA
+2147,ny,new york,USA
+2152,mo,,USA
+2153,,,USA
+2160,al,,USA
+2165,nc,,USA
+2166,ma,boston,USA
+2179,ny,new york,USA
+2181,,,USA
+2189,nc,,USA
+2196,,,USA
+2200,hi,,USA
+2201,ny,new york,USA
+2213,tx,dallas,USA
+2214,ca,,USA
+2219,ca,,USA
+2220,va,,USA
+2226,,,USA
+2227,ca,,USA
+2228,,,USA
+2229,oh,,USA
+2231,ca,,USA
+2232,az,,USA
+2233,mi,,USA
+2234,ca,,USA
+2238,ca,los angeles,USA
+2240,wa,washington,USA
+2242,tx,,USA
+2243,ca,,USA
+2245,wa,washington,USA
+2246,tx,,USA
+2256,wa,washington,USA
+2258,ca,los angeles,USA
+2259,tx,,USA
+2263,tx,houston,USA
+2268,ca,san francisco,USA
+2278,ca,san francisco,USA
+2281,va,,USA
+2284,,,USA
+2292,il,chicago,USA
+2293,tn,memphis,USA
+2294,al,,USA
+2295,al,,USA
+2304,ny,new york,USA
+2308,ca,,USA
+2310,ca,los angeles,USA
+2312,al,,USA
+2316,tx,,USA
+2324,,,USA
+2326,la,los angeles,USA
+2329,,,USA
+2336,az,,USA
+2337,ma,,USA
+2342,al,,USA
+2344,ca,san francisco,USA
+2345,ca,san francisco,USA
+2346,ny,new york,USA
+2363,al,,USA
+2372,pa,,USA
+2374,me,,USA
+2397,ny,new york,USA
+2398,fl,,USA
+2399,il,,USA
+2403,tx,,USA
+2409,ny,new york,USA
+2436,tx,houston,USA
+2437,ca,,USA
+2440,ca,,USA
+2456,ca,san francisco,USA
+2467,ca,san francisco,USA
+2469,ca,,USA
+2476,ca,los angeles,USA
+2478,ca,,USA
+2482,ca,,USA
+2488,ca,,USA
+2491,tx,,USA
+2501,ca,los angeles,USA
+2503,ca,los angeles,USA
+2508,ca,los angeles,USA
+2509,ca,,USA
+2510,ca,,USA
+2511,ca,,USA
+2512,ca,,USA
+2513,ca,,USA
+2519,ca,los angeles,USA
+2521,ga,,USA
+2523,mi,detroit,USA
+2524,fl,,USA
+2525,ny,new york,USA
+2526,md,baltimore,USA
+2528,wa,washington,USA
+2529,ga,,USA
+2532,ca,san francisco,USA
+2533,ca,los angeles,USA
+2536,fl,,USA
+2541,nc,,USA
+2545,wa,seattle,USA
+2548,tx,houston,USA
+2553,wa,seattle,USA
+2554,ca,,USA
+2560,ca,san francisco,USA
+2562,mi,detroit,USA
+2566,ny,new york,USA
+2569,ca,san francisco,USA
+2570,il,chicago,USA
+2571,ca,los angeles,USA
+2572,ca,san francisco,USA
+2574,ca,,USA
+2575,ca,san francisco,USA
+2577,ca,san diego,USA
+2579,pa,,USA
+2593,pa,,USA
+2599,ca,los angeles,USA
+2601,ca,los angeles,USA
+2602,md,,USA
+2604,ca,,USA
+2605,ca,san diego,USA
+2606,,,USA
+2607,ma,boston,USA
+2615,,,USA
+2623,il,chicago,USA
+2626,ok,,USA
+2631,nv,las vegas,USA
+2634,co,,USA
+2636,wa,washington,USA
+2640,ca,san diego,USA
+2641,ca,san jose,USA
+2648,,,USA
+2651,al,,USA
+2653,ca,los angeles,USA
+2660,wi,,USA
+2668,ca,san francisco,USA
+2675,ca,,USA
+2676,fl,,USA
+2681,wa,,USA
+2683,ca,los angeles,USA
+2684,co,,USA
+2691,wa,seattle,USA
+2693,ca,san francisco,USA
+2697,tx,houston,USA
+2698,nv,las vegas,USA
+2706,ca,san diego,USA
+2724,ga,,USA
+2727,co,,USA
+2746,ca,san francisco,USA
+2747,ca,,USA
+2755,il,chicago,USA
+2763,il,chicago,USA
+2764,il,chicago,USA
+2771,,,USA
+2775,ut,,USA
+2777,,,USA
+2785,wa,washington,USA
+2786,fl,,USA
+2787,tx,austin,USA
+2789,ny,new york,USA
+2790,co,denver,USA
+2791,il,chicago,USA
+2795,,,USA
+2802,,,USA
+2807,ny,new york,USA
+2808,fl,,USA
+2814,,,USA
+2819,ca,los angeles,USA
+2836,ca,los angeles,USA
+2842,va,,USA
+2846,nv,las vegas,USA
+2848,nv,las vegas,USA
+2849,nv,las vegas,USA
+2850,nv,las vegas,USA
+2851,nv,las vegas,USA
+2852,nv,las vegas,USA
+2853,nv,las vegas,USA
+2856,nv,las vegas,USA
+2862,hi,los angeles,USA
+2864,il,chicago,USA
+2866,ca,san francisco,USA
+2867,ca,,USA
+2868,ca,,USA
+2869,ca,,USA
+2870,ca,,USA
+2871,ca,,USA
+2872,il,chicago,USA
+2873,il,chicago,USA
+2875,ny,new york,USA
+2880,il,chicago,USA
+2886,wa,seattle,USA
+2888,il,chicago,USA
+2889,ca,,USA
+2890,ca,,USA
+2892,fl,,USA
+2894,il,chicago,USA
+2897,co,,USA
+2902,ny,,USA
+2904,il,chicago,USA
+2905,il,chicago,USA
+2906,il,chicago,USA
+2911,ny,new york,USA
+2912,ny,new york,USA
+2913,ga,,USA
+2914,ga,,USA
+2915,az,,USA
+2928,ok,,USA
+2932,ca,san francisco,USA
+2933,il,,USA
+2934,tx,houston,USA
+2945,ca,los angeles,USA
+2956,ca,los angeles,USA
+2960,al,,USA
+2965,or,,USA
+2984,il,chicago,USA
+2987,co,,USA
+2996,mi,,USA
+2998,ca,los angeles,USA
+2999,ga,,USA
+3007,il,chicago,USA
+3018,ca,,USA
+3029,pa,philadelphia,USA
+3031,sc,,USA
+3040,tx,austin,USA
+3042,pa,,USA
+3048,ny,new york,USA
+3070,ca,,USA
+3071,ca,san francisco,USA
+3072,nv,las vegas,USA
+3077,,,USA
+3080,ny,new york,USA
+3096,tx,,USA
+3097,,,USA
+3102,fl,,USA
+3106,fl,,USA
+3109,,,USA
+3111,ca,san diego,USA
+3121,nv,las vegas,USA
+3122,pa,philadelphia,USA
+3127,ny,new york,USA
+3128,fl,,USA
+3129,ca,los angeles,USA
+3130,ca,san jose,USA
+3133,az,phoenix,USA
+3136,ak,,USA
+3138,va,,USA
+3139,,,USA
+3141,va,,USA
+3144,ca,,USA
+3145,ca,los angeles,USA
+3146,ny,new york,USA
+3151,ny,,USA
+3152,ca,san francisco,USA
+3154,ny,new york,USA
+3155,fl,,USA
+3158,tx,,USA
+3161,fl,,USA
+3164,ca,los angeles,USA
+3174,tx,,USA
+3181,ok,,USA
+3190,,,USA
+3192,ca,san jose,USA
+3193,ca,san francisco,USA
+3194,ca,,USA
+3196,ca,,USA
+3197,dc,washington,USA
+3210,,,USA
+3212,co,denver,USA
+3213,il,chicago,USA
+3215,tx,,USA
+3218,ut,,USA
+3222,tx,,USA
+3227,ct,,USA
+3234,ca,san francisco,USA
+3250,ca,los angeles,USA
+3252,wa,washington,USA
+3259,ga,,USA
+3263,co,denver,USA
+3268,ca,san francisco,USA
+3273,nc,,USA
+3274,tx,dallas,USA
+3276,nc,,USA
+3282,ca,,USA
+3283,az,,USA
+3294,ma,,USA
+3296,ca,,USA
+3297,ca,,USA
+3298,ca,,USA
+3299,ca,,USA
+3300,ca,,USA
+3307,wa,washington,USA
+3309,tx,,USA
+3312,ny,new york,USA
+3314,fl,,USA
+3319,la,los angeles,USA
+3321,co,denver,USA
+3322,ma,,USA
+3326,ca,,USA
+3329,il,chicago,USA
+3341,la,los angeles,USA
+3346,ny,new york,USA
+3349,ga,,USA
+3358,,,USA
+3359,wa,washington,USA
+3369,wi,milwaukee,USA
+3371,la,los angeles,USA
+3375,tx,houston,USA
+3378,tx,houston,USA
+3379,ga,,USA
+3381,fl,,USA
+3384,fl,,USA
+3385,nj,,USA
+3386,il,chicago,USA
+3387,ca,san francisco,USA
+3388,wa,washington,USA
+3407,ny,new york,USA
+3418,wa,,USA
+3419,ca,san francisco,USA
+3423,ca,san diego,USA
+3426,ca,,USA
+3428,or,portland,USA
+3429,nj,,USA
+3435,tx,houston,USA
+3438,ny,new york,USA
+3440,wa,washington,USA
+3452,wa,washington,USA
+3457,fl,,USA
+3459,co,denver,USA
+3461,ca,los angeles,USA
+3466,nj,,USA
+3467,ca,san francisco,USA
+3472,fl,,USA
+3475,il,chicago,USA
+3478,tx,dallas,USA
+3480,in,indianapolis,USA
+3489,fl,,USA
+3496,ny,new york,USA
+3505,va,,USA
+3512,ca,los angeles,USA
+3516,nv,las vegas,USA
+3517,tx,austin,USA
+3519,tx,,USA
+3520,wa,seattle,USA
+3521,tx,,USA
+3539,az,,USA
+3544,,,USA
+3551,ca,los angeles,USA
+3556,,,USA
+3564,ca,san francisco,USA
+3565,ny,new york,USA
+3570,ca,san francisco,USA
+3571,tx,houston,USA
+3573,tx,houston,USA
+3574,,,USA
+3588,ca,,USA
+3589,mo,,USA
+3591,fl,,USA
+3592,ga,,USA
+3593,az,phoenix,USA
+3595,mi,detroit,USA
+3596,ca,san francisco,USA
