@@ -11,10 +11,10 @@ from nltk import word_tokenize, FreqDist
 import pandas as pd
 
 # don't forget to put in your credentials
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
-OAUTH_TOKEN = ''
-OAUTH_TOKEN_SECRET = ''
+CONSUMER_KEY = 'jfy4oqqk1figgCsoPmbbeQqsZ'
+CONSUMER_SECRET = 'Y3X9edCGhwQqq90VGXx86UW28ztMav102GClyPKmkzMFJz5iOX'
+OAUTH_TOKEN = '1721364175-LnbScZulpPhmnPQksyykYv4U38d59OOtYIMvki7'
+OAUTH_TOKEN_SECRET = 'xAKsHPwAiTYEjieOc5wOXz0WP1emeEU3QmN08sxsmoYUe'
 
 
 auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET,
