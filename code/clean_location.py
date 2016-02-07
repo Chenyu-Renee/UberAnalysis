@@ -4,9 +4,22 @@ import re
 import us
 import json
 import pandas as pd 
+import sys, os
+import nltk
+from nltk.corpus import stopwords
+from nltk.book import *
+
 # this script aims to clean the locations.
 def clean_punc (str):
     return ("").join(c for c in str if c not in set(r'!"#$%&\'()*+-./:;<=>?@[\\]^_`{|}~'))
+
+def clean_punc1 (str):
+    return ("").join(c for c in str if c not in set(r'!"#$%&\'()*+-./:,;<=>?@[\\]^_`{|}~'))
+
+def clean_text(text):
+    clean_text = text.split(" ")
+    ret = [i.strip() for i in clean_text]
+    return ret
 
 def split_strip(loc_str):
     tmp = loc_str.split(",")
@@ -30,8 +43,9 @@ def loc_ind(listA, set_list):
             if len(tp[0])==2:
                 return tp[0]
             else:
-                return tp[1]           
-    return "tbd"
+                return tp[1]
+    return "tbd"   
+
 
 def loc_ind2(listA, set_list):
     for myset in set_list:
@@ -45,6 +59,25 @@ def loc_ind2(listA, set_list):
 def write_state_ind(id_dict): 
     with open("../data/loc_state.json", "w") as f:
         json.dump(id_dict, f, indent=4)
+
+
+# ind = np.array(id_dict["oh"])
+# all_text = np.array([j['text'] for j in uber['statuses']])
+# all_text1 = np.array([clean_text(st) for st in all_text])
+# content_state = sum(all_text1[ind],[])
+# clean_content = [clean_punc(w.lower()) for w in content_state if w.lower() not in stopwords]
+# clean_content2 = [i for i in clean_content if i not in no_sense_list]
+# fdist = FreqDist(clean_content2)
+# fdist.most_common(10)
+
+def keywords_state(state_name, id_dict, text_list,stopwords):
+    if id_dict[state_name]==None :
+        return None
+    ind = np.array(id_dict[state_name])
+    content_state = sum(text_list[ind],[])
+    clean_content = [clean_punc1(w.lower()) for w in content_state if w.lower() not in stopwords]
+    clean_content2 = [i for i in clean_content if i not in no_sense_list]
+    return FreqDist(clean_content2).most_common(1)
 
 # list of america and similar
 list_us = ["american", "us", "usa", "united states", "america", "unite states"]
@@ -144,12 +177,35 @@ cities = {
         "Las Vegas": "NV"
 }
 
+#get data from uber tweets file
+with open ("/Users/Xinyue_star/TwitterProject/data/uber.json") as infile:
+   uber = json.load(infile)
+
+loc_list = [status['user']['location'] for status in uber['statuses']]
+print(len(loc_list))
+
+all_text = [j['text'] for j in uber['statuses']]
+all_text = np.array([clean_text(st) for st in all_text])
+stopwords = nltk.corpus.stopwords.words('english')
+no_sense_list = set(['nyc','ubered','memphistn'
+    ,'httpstcoqars4abcwt','lasvegas','johnh343'
+    ,'travel','code','ride','uber','-','rt'
+    ,'chicago','','amp','drivers','driver'
+    ,'get','way','via','new','use','next','free','vegas','honoluluhi'])
+
 
 #load data: It is the location list of all the tweets
-with open("../data/uber_loc.json") as infile:
-    loc_list = json.load(infile)
+# with open("../data/uber_loc.json") as infile:
+#     loc_list = json.load(infile)
 
-#BUILD A STATE:INDEX DICTIONARY
+# write the json file
+# with open ("/Users/Xinyue_star/TwitterProject/data/justsee1.json", "w") as f:
+#     json.dump(loc_list, f , indent=4)
+
+
+
+
+# BUILD A STATE:INDEX DICTIONARY
 # all states name sets, transfer into lower case
 states_bv = [i.lower() for i in list_states.keys()]
 states_l = [i.lower() for i in list_states.values()]
@@ -170,7 +226,8 @@ for i in range(len(list_tmp)):
         id_dict[loc].append(i)
 
 # write_state_ind(id_dict)
-
+# with open ("/Users/Xinyue_star/TwitterProject/data/dictsee1.json", "w") as f:
+#     json.dump(id_dict, f , indent=4)
 
 # find all the data in the usa and create a data frame
 junk_data = np.array(id_dict["tbd"])
@@ -224,11 +281,18 @@ df = pd.concat([df1_sorted,df2],axis=1)
 # create a new dictionary with lowercase everything. Therefore we can find out the missing values
 dict_new_city = dict(zip(citynames1,city_state1))
 df["STATE"][df["STATE"].isnull()]= [dict_new_city[i] for i in df[df["STATE"].isnull()]["CITY"]]
+
+#add one more column for the most frequent word for each state
+keyword_loc = [keywords_state(state, id_dict, all_text,stopwords) for state in list(id_dict.keys())]
+df3 = pd.DataFrame({'STATE':list(id_dict.keys()), 'KEYWORD':[i[0][0] if i != None else None for i in keyword_loc]})
+
 #merge df3
 df_with_usa = pd.concat([df,df3],axis=1)
 df_with_usa['COUNTRY'] = pd.Series(['USA']*df_with_usa.shape[0], index=df_with_usa.index)
 
+df4 = pd.DataFrame({'CITY':citynames1,'STATE':city_state1})
 # write out to .csv
-df.to_csv("../data/location_df.csv")
-df_with_usa.to_csv("../data/location_df_usa.csv")
-
+df.to_csv("/Users/Xinyue_star/TwitterProject/data/location.csv")
+df_with_usa.to_csv("/Users/Xinyue_star/TwitterProject/data/location_usa.csv")
+df3.to_csv("/Users/Xinyue_star/TwitterProject/data/keywordsInfo.csv")
+df4.to_csv("/Users/Xinyue_star/TwitterProject/data/city_state.csv")
