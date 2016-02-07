@@ -1,0 +1,29 @@
+(plot1.png)
+- Half of tweets are from California
+- Among all the cities in California, SF & LA contribute most tweets
+- It gives us an idea that how Uber users spread across the country
+
+(map 1)
+- The Uber users concentrate in East coast near New York, west coast in California, and South part in Taxes.
+- However, these states also owns most population
+
+(map 2)
+- California and New York still have the most active Uber Users.
+- Nevada stands out. Low population.
+- Keywords by states, there are some interesting pattern
+	CA 				          			-- "startup"
+	NY, MA, IN, WI, MN, NH, ID          -- "logo"
+	TX, IL, NM, MA         				-- "lyft"
+	FL, WY 			          			-- "Doctor"
+
+(map 3)
+- Largest cities have the most active users: New York, LA, Chicago
+- Tourism cities like Las Vegas, Seattle.
+- San Francisco
+
+	
+
+
+
+
+
