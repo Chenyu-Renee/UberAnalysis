@@ -26,10 +26,12 @@ uber$dates <- as.Date(uber$dates)
 
 layer_line <- geom_line(mapping = aes(x = dates, y = tweets), data = uber)
 ggplot() + layer_line + ggtitle("Direct Tweets to @Uber") + 
-  annotate("segment", x=as.Date('2016-01-31','%Y-%m-%d'), y=750, 
+  ggplot2::annotate("segment", x=as.Date('2016-01-31','%Y-%m-%d'), y=750, 
            xend=as.Date('2016-02-02','%Y-%m-%d'), yend=475, size=0.5, 
            arrow=arrow(length=unit(.2, "cm"))) + 
-  annotate("text", label="Twitter announces logo change", 
-           x=as.Date('2016-01-31','%Y-%m-%d'), y=780, 
-           size=4, fontface="bold") + xlab("Date") +
-  ylab("Number of Tweets")
+  ggplot2::annotate("text", label="Twitter announces logo change", 
+           x=as.Date('2016-01-31','%Y-%m-%d'), y=775, 
+           size=5.5, fontface="bold") + xlab("Date") +
+  ylab("Number of Tweets") + theme(axis.text=element_text(size=14),
+        axis.title=element_text(size=16,face="bold"), 
+        plot.title = element_text(size=22, face="bold"))
