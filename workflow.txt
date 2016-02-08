@@ -1,11 +1,10 @@
-Cover
-Data source, Background - niuniu
+Cover(topic and background) - niuniu
 Overview, Questions - niuniu
  
 0. General
 	network - siyao
-	hashtag trends - chenyu
-
+	hashtag trends1 - chenyu
+	hashtag trends2 - chenyu
 
 1. Important event: New Logo Launch
 	background about logo - aksam
@@ -27,4 +26,4 @@ Overview, Questions - niuniu
 	Comparison with google data (Some summary) - aksam
 
 conclusion1 - niuniu
-conclusion2 - niuniu
+conclusion2 (including data source) - niuniu
