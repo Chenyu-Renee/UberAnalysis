@@ -28,17 +28,25 @@ p1<- ggplot(subset(theTable, STATE %in% c("ca","ny","tx","fl","il","oh"))
   scale_fill_brewer(palette="Blues")+
   geom_bar()+
   labs(x="States")+
-  ggtitle("Frequence of Tweets by State")
+  ggtitle("Frequency of Tweets by State")+ 
+  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=20, hjust=0))+
+  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=15))+
+  theme(text = element_text(size=20))+
+  coord_flip()
+p1
 
 data3 <- within(data3, STATE <- factor(STATE, levels=names(sort(table(STATE), decreasing=FALSE))))
 p2<-ggplot(subset(data3, STATE %in% c("ca","ny","tx","fl","il","oh"))
        , aes(factor(STATE),fill=CITY))+
   geom_bar()+
   labs(x="States")+
-  ggtitle("Frequence of Tweets by City")
-
-grid.arrange(p1, p2, nrow=1, 
-             top = textGrob("Uber Tweets Spacial Data", gp=gpar(fontsize=20)))
+  ggtitle("Frequency of Tweets by State & City")+ 
+  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=20, hjust=0))+
+  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=15))+
+  theme(text = element_text(size=20))+
+  coord_flip()+
+  guides(col = guide_legend(ncol = 2,byrow=TRUE))
+p2
 
 us_state_map <- map_data('state')
 tmp<- merge(data_state_ref,us_state_map,by = 'region')
@@ -66,9 +74,10 @@ p5 <- ggplot(data = map_data, aes(x = long, y = lat, group = group))+
   coord_map()+
   geom_text(data = state_keyword, aes(x = x, y = y, label = state.abb, group = NULL), size = 4, colour="gray")+
   theme_bw()+
-  ggtitle("Frequence of Tweets by States befor Normalization")+
+  ggtitle("Frequency of Tweets by States before Normalization")+
+  theme(text = element_text(size=20))+
   guides(fill=FALSE)
-
+p5
 
 #after normalization of population
 URL <-"http://www.infoplease.com/us/states/population-by-rank.html"
@@ -92,7 +101,8 @@ p6 <- ggplot(data = map_data2, aes(x = long, y = lat, group = group))+
   coord_map()+
   geom_text(data = state_keyword, aes(x = x, y = y, label = state.abb, group = NULL), size = 4, colour="gray")+
   theme_bw()+
-  ggtitle("Frequence of Tweets by States and Keyword after Normalization")+
+  ggtitle("Frequency of Tweets by States and Keyword after Normalization")+
+  theme(text = element_text(size=20))+
   guides(fill=FALSE)
 p6
 
@@ -123,7 +133,8 @@ tmp3<-merge(city_state[order(city_state$STATE,city_state$CITY),],tmp2[order(tmp2
 final_city<- merge(tmp3,city_coor[order(city_coor$STATE,city_coor$CITY),])
 
 
-MapIt + geom_point(aes(x=long, y=lat, size = freq), col = "orange",data = final_city, alpha=0.4) +
+MapIt + geom_point(aes(x=long, y=lat, size = freq), col = "red",data = final_city, alpha=0.6) +
   ggtitle("Frequency of Tweets by City")+
-  geom_text(data = final_city, aes(x = long, y = lat, label = CITY, size=freq,group = NULL), colour="grey", alpha=1)
+  theme(text = element_text(size=20))+
+  geom_text(data = final_city, aes(x = long, y = lat, label = CITY, group = NULL), colour="grey", alpha=1)
   
