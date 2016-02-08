@@ -1,6 +1,6 @@
 (plot1.png)
 - Half of tweets are from California
-- Among all the cities in California, SF & LA contribute most tweets
+- Among all the cities in California, SF & LA contribute the most tweets
 - It gives us an idea that how Uber users spread across the country
 
 (map 1)
@@ -19,4 +19,13 @@
 (map 3)
 - Largest cities have the most active users: New York, LA, Chicago
 - Tourism cities like Las Vegas, Seattle.
-- San Francisco
+- San Francisco, headquarter of Uber
+
+
+Let me talk about some geographical analysis of tweets we got. The first barplot gives us an idea how the uber users spread across the country. We can see that more than half of tweets are from California. And in California, San francisco and LA contributes the most tweets.
+
+This is the map highlights the most active cities. Some structures exist. The largest cities have the most active users: New York, LA, Chicago. Tourism cities like Las Vegas, Seattle. And people in San Francisco, the origin of Uber, also very passionate about Uber.
+
+In this graph, the darker color represents the denser users population. The Uber users concentrate in East coast near New York, west coast in California, and South part in Taxes.However, these states also owns largest population, so we don't know the underlying activeness.
+
+This map is previous one normalized by state population. It is almost same, besides Nevada stands out this time, as it has a compartively small population. According to the most frequent used words group by states, there are some interesting pattern. If you are interesting in the story behind, we can talk after the class
