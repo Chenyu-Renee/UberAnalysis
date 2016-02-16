@@ -17,4 +17,4 @@ uberlogo <- tm_map(uberlogo, removeWords, c("uber", "new", "n't",
                                             "logo","logos"))
 
 wordcloud(uberlogo, scale=c(4.5,0.5), max.words=75, random.order=FALSE, 
-          rot.per=0.35, use.r.layout=FALSE, colors=brewer.pal(8, "Dark2"))
+          rot.per=0.35, use.r.layout=FALSE, colors=brewer.pal(6, "Dark2"))
