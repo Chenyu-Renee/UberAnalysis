@@ -29,11 +29,11 @@ p1<- ggplot(subset(theTable, STATE %in% c("ca","ny","tx","fl","il","oh"))
   geom_bar()+
   labs(x="States")+
   ggtitle("Frequency of Tweets by State")+ 
-  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=20, hjust=0))+
-  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=15))+
-  theme(text = element_text(size=20))+
+  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=40, hjust=0))+
+  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=30))+
+  theme(text = element_text(size=40))+
   coord_flip()
-p1
+ggsave("../figure/poster2.png",p1, width = 30, height = 20)
 
 data3 <- within(data3, STATE <- factor(STATE, levels=names(sort(table(STATE), decreasing=FALSE))))
 p2<-ggplot(subset(data3, STATE %in% c("ca","ny","tx","fl","il","oh"))
@@ -93,18 +93,31 @@ merge2 <- merge(merge2,merge1, by="STATE")
 
 map_data2 <- merge(merge2, tmp, by = 'STATE')
 map_data2 <- arrange(map_data2, order)
-map_data2 <-cbind(map_data2, nmlz<-map_data2$freq/map_data2$population*10000000)
+map_data2 <-cbind(map_data2, Freq=7-log(map_data2$freq/map_data2$population*10000000))
 
 p6 <- ggplot(data = map_data2, aes(x = long, y = lat, group = group))+
-  geom_polygon(aes(fill = 10-log(nmlz)))+
+  geom_polygon(aes(fill = Freq))+
   geom_path(colour = 'white')+
   coord_map()+
-  geom_text(data = state_keyword, aes(x = x, y = y, label = state.abb, group = NULL), size = 4, colour="gray")+
+  geom_text(data = state_keyword, aes(x = x, y = y, label = state.abb, group = NULL), size = 8, colour="gray")+
   theme_bw()+
   ggtitle("Frequency of Tweets by States and Keyword after Normalization")+
-  theme(text = element_text(size=20))+
-  guides(fill=FALSE)
+  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=40, hjust=0))+
+  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=30))+
+  theme(text = element_text(size=40))+
+  theme(legend.position = "right")+
+  scale_fill_continuous(guide = guide_colorbar(reverse=TRUE),name = "Frequency Level")+
+  labs(x="Longitude",y = "Latitude")+
+  scale_size(range=c(5,20), guide="none")+
+  scale_color_gradient(high="#ff0000", low="#ffffcc")  
 p6
+ggsave("../figure/poster1.png",p6, width = 30, height = 20)
+
+
+
+
+
+
 
 #city heat map
 map<- get_map(location="USA",zoom=4,maptype = "hybrid")

@@ -178,7 +178,7 @@ cities = {
 }
 
 #get data from uber tweets file
-with open ("/Users/Xinyue_star/TwitterProject/data/uber.json") as infile:
+with open ("/Users/Xinyue_star/TwitterProject/data/uber_all.json") as infile:
    uber = json.load(infile)
 
 loc_list = [status['user']['location'] for status in uber['statuses']]
@@ -191,7 +191,8 @@ no_sense_list = set(['nyc','ubered','memphistn'
     ,'httpstcoqars4abcwt','lasvegas','johnh343'
     ,'travel','code','ride','uber','-','rt'
     ,'chicago','','amp','drivers','driver'
-    ,'get','way','via','new','use','next','free','vegas','honoluluhi'])
+    ,'get','way','via','new','use','next','free'
+    ,'vegas','honoluluhi','dont','out','httpstcopauixm5chy','item'])
 
 
 #load data: It is the location list of all the tweets
