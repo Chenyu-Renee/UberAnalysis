@@ -178,7 +178,7 @@ cities = {
 }
 
 #get data from uber tweets file
-with open ("/Users/Xinyue_star/TwitterProject/data/uber_all.json") as infile:
+with open ("/Users/Xinyue_star/TwitterProject/data/uber_all_0205.json") as infile:
    uber = json.load(infile)
 
 loc_list = [status['user']['location'] for status in uber['statuses']]

@@ -29,11 +29,30 @@ p1<- ggplot(subset(theTable, STATE %in% c("ca","ny","tx","fl","il","oh"))
   geom_bar()+
   labs(x="States")+
   ggtitle("Frequency of Tweets by State")+ 
-  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=40, hjust=0))+
-  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=30))+
-  theme(text = element_text(size=40))+
+  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=20, hjust=0))+
+  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=15))+
+  theme(text = element_text(size=20))+
   coord_flip()
+p1
 ggsave("../figure/poster2.png",p1, width = 30, height = 20)
+
+
+p1<- ggplot(subset(theTable, STATE %in% c("ca","ny","tx","fl","il","oh"))
+            , aes(factor(STATE),fill=STATE))+
+  scale_fill_brewer(palette="Blues")+
+  geom_bar()+
+  labs(x="States")+
+  ggtitle("Frequency of Tweets by State")+ 
+  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=20, hjust=0))+
+  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=15))+
+  theme(text = element_text(size=20))+
+  coord_flip()
+p1
+
+
+
+
+
 
 data3 <- within(data3, STATE <- factor(STATE, levels=names(sort(table(STATE), decreasing=FALSE))))
 p2<-ggplot(subset(data3, STATE %in% c("ca","ny","tx","fl","il","oh"))
@@ -65,6 +84,9 @@ data_keywords = data_keywords[order(data_keywords$state.abb),]
 states = states[order(states$state.abb),]
 
 state_keyword <- merge(x = states,y = data_keywords, by="state.abb", all.x=TRUE)
+#change the coord
+
+
 state_keyword$state.abb = paste(state_keyword$state.abb,":",state_keyword$KEYWORD)
 
 
@@ -99,12 +121,12 @@ p6 <- ggplot(data = map_data2, aes(x = long, y = lat, group = group))+
   geom_polygon(aes(fill = Freq))+
   geom_path(colour = 'white')+
   coord_map()+
-  geom_text(data = state_keyword, aes(x = x, y = y, label = state.abb, group = NULL), size = 8, colour="gray")+
+  geom_text(data = state_keyword, aes(x = x, y = y, label = state.abb, group = NULL), size = 4, colour="gray")+
   theme_bw()+
-  ggtitle("Frequency of Tweets by States and Keyword after Normalization")+
-  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=40, hjust=0))+
-  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=30))+
-  theme(text = element_text(size=40))+
+  ggtitle("Frequency of Tweets by States and Keyword by Capita")+
+  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=20, hjust=0))+
+  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=15))+
+  theme(text = element_text(size=20))+
   theme(legend.position = "right")+
   scale_fill_continuous(guide = guide_colorbar(reverse=TRUE),name = "Frequency Level")+
   labs(x="Longitude",y = "Latitude")+

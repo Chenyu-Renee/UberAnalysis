@@ -1,31 +1,31 @@
 ,CITY,STATE
-0,san francisco,ca
-1,detroit,mi
-2,las vegas,nv
-3,philadelphia,pa
-4,san jose,ca
-5,indianapolis,in
-6,san antonio,tx
-7,los angeles,ca
-8,dallas,tx
-9,jacksonville,fl
+0,detroit,mi
+1,san diego,ca
+2,seattle,wa
+3,san francisco,ca
+4,las vegas,nv
+5,baltimore,md
+6,dallas,tx
+7,new york,ny
+8,milwaukee,wi
+9,louisville jefferson,ky
 10,columbus,oh
-11,fort worth,tx
-12,phoenix,az
-13,san diego,ca
-14,milwaukee,wi
-15,portland,or
-16,washington,dc
-17,denver,co
-18,new york,ny
-19,austin,tx
-20,houston,tx
-21,el paso,tx
-22,louisville jefferson,ky
-23,baltimore,md
-24,nashville-davidson,tn
-25,boston,ma
-26,memphis,tn
-27,seattle,wa
-28,chicago,il
-29,charlotte,nc
+11,nashville-davidson,tn
+12,el paso,tx
+13,fort worth,tx
+14,san antonio,tx
+15,boston,ma
+16,chicago,il
+17,houston,tx
+18,charlotte,nc
+19,los angeles,ca
+20,washington,dc
+21,indianapolis,in
+22,phoenix,az
+23,denver,co
+24,san jose,ca
+25,philadelphia,pa
+26,austin,tx
+27,memphis,tn
+28,jacksonville,fl
+29,portland,or
