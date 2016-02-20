@@ -1,13 +1,16 @@
 library(ggplot2)
-
+library(gridExtra)
 setwd("~/Desktop/TwitterProject/")
 
-data <- read.csv('surgepricing.csv', head=T)
-sp <- data[,c(1,10:13)]
-sp$X.surgepricing = sp$X.surgepricing + sp$X.SurgePricing + sp$X.surge + sp$surge.pricing
+sp <- read.csv('surgepricing1.csv', head=T)
+sp <- sp[-c(1:14,375:392), ]
+# sp <- data[,c(1,10:13)]
+sp$X.surgepricing = sp$X.surgepricing + sp$X.SurgePricing + sp$X.surge + sp$surge + sp$Surge
 sp$X.SurgePricing <- NULL
 sp$X.surge <- NULL
-sp$surge.pricing <- NULL
+sp$surge <- NULL
+sp$Surge <- NULL
+
 colnames(sp) <- c("Date","surgepricing")
 sp$Date=strptime(sp$Date,format = "%Y-%m-%d %H:%M")
 sp$DateIn4HrG = strptime(
@@ -61,10 +64,11 @@ p1 = ggplot(data = sp, aes(x=DateIn4HrG, y=surgepricing)) +
   xlab("Date") +
   ylab("Surge pricing frequency") + 
   ggtitle("Surge Pricing Occurred Time Trends") +
-  theme(plot.title = element_text(lineheight=3, face="bold",color="dodgerblue4", size=28)) +
-  theme(axis.title.y = element_text(size = rel(1.8), angle = 90)) +
-  theme(axis.title.x = element_text(size = rel(1.8), angle = 00))
+  theme(plot.title = element_text(lineheight=3, face="bold",color="dodgerblue4", size=18)) +
+  theme(axis.title.y = element_text(size = rel(1.0), angle = 90)) +
+  theme(axis.title.x = element_text(size = rel(1.0), angle = 00))
 
+ggsave(file="surge_timeseries.png",dpi=1000)
 
 # spn <- sp[with(sp, order(sp$Frequency)),]
 
@@ -73,9 +77,9 @@ p2 = ggplot(data = sp, aes(x=Interval4Hr, y=surgepricing)) +
   xlab("Time Period") +
   ylab("Surge pricing frequency") + 
   ggtitle("Surge Pricing Occurred Interval") +
-  theme(plot.title = element_text(lineheight=3, face="bold",color="lightpink4", size=28)) +
-  theme(axis.title.y = element_text(size = rel(1.8), angle = 90)) +
-  theme(axis.title.x = element_text(size = rel(1.8), angle = 00))
+  theme(plot.title = element_text(lineheight=3, face="bold",color="lightpink4", size=18)) +
+  theme(axis.title.y = element_text(size = rel(1.0), angle = 90)) +
+  theme(axis.title.x = element_text(size = rel(1.0), angle = 00))
+# grid.arrange(p1, p2, nrow =1)
 
-grid.arrange(p1, p2, nrow =1)
-
+ggsave(file="surge_group.png",dpi=1000)
