@@ -178,7 +178,7 @@ cities = {
 }
 
 #get data from uber tweets file
-with open ("/Users/Xinyue_star/TwitterProject/data/uber_all_0205.json") as infile:
+with open ("/Users/Xinyue_star/TwitterProject/data/uber_all.json") as infile:
    uber = json.load(infile)
 
 loc_list = [status['user']['location'] for status in uber['statuses']]
@@ -285,8 +285,8 @@ df["STATE"][df["STATE"].isnull()]= [dict_new_city[i] for i in df[df["STATE"].isn
 
 #add one more column for the most frequent word for each state
 keyword_loc = [keywords_state(state, id_dict, all_text,stopwords) for state in list(id_dict.keys())]
-df3 = pd.DataFrame({'STATE':list(id_dict.keys()), 'KEYWORD':[i[0][0] if i != None else None for i in keyword_loc]})
-
+df3 = pd.DataFrame({'STATE':list(id_dict.keys()), 'KEYWORD':[i[0][0] if i != None else None for i in keyword_loc],
+                   'FREQ':[i[0][1] if i != None else None for i in keyword_loc]}, index=None)
 #merge df3
 df_with_usa = pd.concat([df,df3],axis=1)
 df_with_usa['COUNTRY'] = pd.Series(['USA']*df_with_usa.shape[0], index=df_with_usa.index)
