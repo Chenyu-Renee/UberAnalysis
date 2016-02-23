@@ -46,4 +46,4 @@ ggplot() + layer_line + ggtitle("Direct Tweets to @Uber") +
         axis.title.x=element_blank(), 
         axis.text.x = element_text(angle = 45, hjust = 1))
 
-ggsave('LogoAnnounce.png', dpi = 1000)
+ggsave('LogoAnnounce.png', dpi = 600)
