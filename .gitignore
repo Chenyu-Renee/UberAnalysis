@@ -4,4 +4,17 @@ __pycache__/
 *.py[cod]
 *.ipynb
 *.log
+
+
+# about R
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Rproj
+*.dvi
 .Rproj.user
+
+*uber_all.json
+*uber_all_0205.json
+*uber.json
+*uber1.json

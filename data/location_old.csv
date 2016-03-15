@@ -1,0 +1,5440 @@
+,STATE,CITY
+46,ny,new york
+48,pa,
+81,ny,new york
+85,fl,
+87,ca,
+93,ca,
+94,ny,
+95,ny,
+96,ny,
+97,ny,
+102,ny,
+104,ny,
+105,ny,
+106,ny,
+107,ca,
+108,ca,
+109,ca,
+110,ca,
+111,ca,
+112,ny,
+113,ny,
+115,ny,
+116,ny,
+119,ny,
+120,ny,
+122,ny,
+124,mn,
+128,ny,
+129,ny,
+134,ca,los angeles
+141,ut,
+157,oh,
+158,ny,
+163,ny,
+168,ny,
+170,ny,
+172,ca,san francisco
+174,ca,san francisco
+184,tn,memphis
+201,il,
+212,ca,
+215,sc,
+219,tx,
+221,tx,houston
+225,tx,houston
+236,nd,
+244,ny,new york
+254,nv,las vegas
+259,ny,new york
+264,ca,san diego
+266,ca,
+272,il,chicago
+283,ga,
+286,ga,
+287,ny,new york
+289,wa,seattle
+306,ca,san diego
+307,ca,san diego
+314,wa,washington
+316,tn,
+320,ca,
+321,il,chicago
+327,ny,new york
+332,ca,
+333,ca,
+334,ca,
+335,ca,
+336,ca,
+337,ca,
+338,ca,san diego
+352,ca,san francisco
+359,ny,
+360,wa,seattle
+369,ca,san diego
+374,ny,
+384,nv,las vegas
+389,wa,washington
+391,ca,san francisco
+392,nc,
+394,co,
+395,ny,new york
+424,nv,las vegas
+429,mn,
+437,al,
+441,tx,dallas
+443,fl,
+445,ca,san francisco
+447,ny,
+450,tx,
+451,tx,
+457,ca,san francisco
+460,ca,
+467,ny,new york
+479,ca,los angeles
+488,tx,houston
+504,ca,san francisco
+512,fl,
+518,nv,las vegas
+519,ny,new york
+521,tx,austin
+523,wi,
+525,il,chicago
+550,ny,
+551,ny,new york
+557,ga,
+558,il,chicago
+565,oh,
+573,ca,
+574,ca,
+575,ca,
+576,ca,
+578,ca,
+585,fl,
+589,tx,houston
+591,tx,houston
+592,il,chicago
+612,wi,
+616,mi,detroit
+645,ny,new york
+650,mo,
+658,al,
+663,nc,
+664,ma,boston
+677,ny,new york
+687,nc,
+699,hi,
+700,ny,new york
+712,tx,dallas
+713,ca,
+718,ca,
+719,va,
+724,ny,new york
+727,ca,
+729,oh,
+731,ca,
+732,az,
+733,mi,
+734,ca,
+738,ca,los angeles
+740,wa,washington
+742,tx,
+743,ca,
+745,wa,washington
+746,tx,
+756,wa,washington
+758,ca,los angeles
+759,tx,
+763,tx,houston
+768,ca,san francisco
+778,ca,san francisco
+781,va,
+792,il,chicago
+793,tn,memphis
+794,al,
+795,al,
+804,ny,new york
+808,ca,
+810,ca,los angeles
+812,al,
+816,tx,
+826,la,los angeles
+834,ny,new york
+836,az,
+837,ma,
+842,al,
+844,ca,san francisco
+845,ca,san francisco
+846,ny,new york
+863,al,
+872,pa,
+874,me,
+897,ny,new york
+898,fl,
+899,il,
+903,tx,
+909,ny,new york
+935,tx,houston
+936,ca,
+939,ca,
+955,ca,san francisco
+966,ca,san francisco
+968,ca,
+975,ca,los angeles
+977,ca,
+981,ca,
+987,ca,
+990,tx,
+1000,ca,los angeles
+1002,ca,los angeles
+1007,ca,los angeles
+1008,ca,
+1009,ca,
+1010,ca,
+1011,ca,
+1012,ca,
+1018,ca,los angeles
+1020,ga,
+1022,mi,detroit
+1023,fl,
+1024,ny,new york
+1025,md,baltimore
+1027,wa,washington
+1028,ga,
+1031,ca,san francisco
+1032,ca,los angeles
+1034,fl,
+1039,nc,
+1045,wa,seattle
+1048,tx,houston
+1053,wa,seattle
+1054,ca,
+1060,ca,san francisco
+1062,mi,detroit
+1066,ny,new york
+1069,ca,san francisco
+1070,il,chicago
+1071,ca,los angeles
+1072,ca,san francisco
+1074,ca,
+1075,ca,san francisco
+1077,ca,san diego
+1079,pa,
+1092,pa,
+1098,ca,los angeles
+1100,ca,los angeles
+1101,md,
+1103,ca,
+1104,ca,san diego
+1105,ma,boston
+1121,il,chicago
+1124,ok,
+1129,nv,las vegas
+1132,co,
+1134,wa,washington
+1138,ca,san diego
+1139,ca,san jose
+1149,al,
+1151,ca,los angeles
+1159,wi,
+1167,ca,san francisco
+1174,ca,
+1175,fl,
+1180,wa,
+1182,ca,los angeles
+1183,co,
+1190,wa,seattle
+1192,ca,san francisco
+1196,tx,houston
+1197,nv,las vegas
+1205,ca,san diego
+1224,ga,
+1227,co,
+1247,ca,san francisco
+1248,ca,
+1256,il,chicago
+1264,il,chicago
+1265,il,chicago
+1276,ut,
+1286,wa,washington
+1287,tx,austin
+1289,ny,new york
+1290,co,denver
+1291,il,chicago
+1307,ny,new york
+1308,fl,
+1321,ca,los angeles
+1338,ca,los angeles
+1345,va,
+1350,nv,las vegas
+1352,nv,las vegas
+1353,nv,las vegas
+1354,nv,las vegas
+1355,nv,las vegas
+1356,nv,las vegas
+1357,nv,las vegas
+1360,nv,las vegas
+1366,hi,los angeles
+1368,il,chicago
+1370,ca,san francisco
+1371,ca,
+1372,ca,
+1373,ca,
+1374,ca,
+1375,ca,
+1376,il,chicago
+1377,il,chicago
+1379,ny,new york
+1384,il,chicago
+1390,wa,seattle
+1392,il,chicago
+1393,ca,
+1394,ca,
+1396,fl,
+1398,il,chicago
+1401,co,
+1406,ny,
+1408,il,chicago
+1409,il,chicago
+1410,il,chicago
+1415,ny,new york
+1416,ny,new york
+1417,ga,
+1418,ga,
+1419,az,
+1432,ok,
+1436,ca,san francisco
+1437,il,
+1438,tx,houston
+1449,ca,los angeles
+1460,ca,los angeles
+1464,al,
+1469,or,
+1488,il,chicago
+1491,co,
+1499,mi,
+1501,ca,los angeles
+1502,ga,
+1510,il,chicago
+1522,ca,
+1538,pa,philadelphia
+1545,sc,
+1554,tx,austin
+1556,pa,
+1562,ny,new york
+1587,ca,
+1588,ca,san francisco
+1589,nv,las vegas
+1597,ny,new york
+1613,tx,
+1619,fl,
+1623,fl,
+1628,ca,san diego
+1638,nv,las vegas
+1640,pa,philadelphia
+1645,ny,new york
+1646,fl,
+1647,ca,los angeles
+1648,ca,san jose
+1651,az,phoenix
+1654,ak,
+1656,va,
+1659,va,
+1662,ca,
+1663,ca,los angeles
+1664,ny,new york
+1669,ny,
+1670,ca,san francisco
+1672,ny,new york
+1673,fl,
+1676,tx,
+1679,fl,
+1682,ca,los angeles
+1693,tx,
+1700,ok,
+1713,ca,san jose
+1714,ca,san francisco
+1715,ca,
+1717,ca,
+1718,dc,washington
+1734,co,denver
+1735,il,chicago
+1737,tx,
+1742,ut,
+1746,tx,
+1752,ct,
+1759,ca,san francisco
+1775,ca,los angeles
+1777,wa,washington
+1784,ga,
+1788,co,denver
+1793,ca,san francisco
+1799,nc,
+1800,tx,dallas
+1802,nc,
+1808,ca,
+1811,az,
+1825,ma,
+1827,ca,
+1828,ca,
+1829,ca,
+1830,ca,
+1831,ca,
+1837,wa,washington
+1839,tx,
+1843,ny,new york
+1845,fl,
+1850,la,los angeles
+1852,co,denver
+1853,ma,
+1857,ca,
+1861,il,chicago
+1874,la,los angeles
+1880,ny,new york
+1885,ga,
+1896,wa,washington
+1909,wi,milwaukee
+1911,la,los angeles
+1915,tx,houston
+1916,tx,houston
+1919,tx,houston
+1920,ga,
+1922,fl,
+1926,fl,
+1927,nj,
+1929,il,chicago
+1930,ca,san francisco
+1932,wa,washington
+1953,ny,new york
+1965,wa,
+1966,ca,san francisco
+1970,ca,san diego
+1973,ca,
+1975,or,portland
+1976,nj,
+1982,tx,houston
+1985,ny,new york
+1987,wa,washington
+1999,wa,washington
+2007,fl,
+2009,co,denver
+2011,ca,los angeles
+2021,nj,
+2022,ca,san francisco
+2030,fl,
+2033,il,chicago
+2036,tx,dallas
+2039,in,indianapolis
+2048,fl,
+2055,ny,new york
+2066,va,
+2073,ca,los angeles
+2078,nv,las vegas
+2079,tx,austin
+2081,tx,
+2082,wa,seattle
+2083,tx,
+2088,tx,houston
+2104,az,
+2119,va,
+2121,ca,los angeles
+2137,ca,san francisco
+2138,ny,new york
+2145,ca,san francisco
+2146,tx,houston
+2148,tx,houston
+2168,ca,
+2169,mo,
+2172,fl,
+2173,ga,
+2175,az,phoenix
+2177,mi,detroit
+2179,ca,san francisco
+2182,ca,
+2188,nv,las vegas
+2190,ny,new york
+2194,va,
+2196,ny,new york
+2204,fl,
+2212,tn,memphis
+2221,fl,
+2227,va,
+2232,va,
+2233,fl,
+2246,fl,
+2248,na,
+2250,tn,
+2256,il,chicago
+2269,ny,new york
+2275,ca,
+2290,ga,
+2300,oh,
+2301,co,denver
+2304,tx,dallas
+2306,fl,
+2311,ny,
+2319,ny,new york
+2324,va,
+2325,va,
+2327,va,
+2334,fl,
+2336,ny,new york
+2337,co,denver
+2345,wi,
+2347,ca,
+2348,ca,
+2349,ca,
+2350,ca,
+2352,ca,
+2375,ca,los angeles
+2384,ca,los angeles
+2393,ca,
+2394,ca,
+2404,tx,
+2413,md,
+2415,az,
+2419,ny,new york
+2423,ny,
+2428,ca,
+2441,ny,
+2449,pa,
+2451,co,denver
+2452,ny,new york
+2455,wa,
+2456,wa,seattle
+2459,ny,new york
+2464,ma,boston
+2465,tx,dallas
+2483,tx,austin
+2486,tx,dallas
+2498,tx,austin
+2500,tx,austin
+2502,tx,
+2503,ny,new york
+2506,tx,
+2521,ny,
+2529,tn,
+2536,fl,
+2538,ny,
+2544,ma,boston
+2550,ca,
+2555,tx,houston
+2557,wa,washington
+2559,nc,
+2561,ga,
+2562,az,
+2568,il,chicago
+2571,il,chicago
+2575,nj,
+2577,sc,
+2595,nd,
+2598,tx,
+2608,tx,dallas
+2618,tx,dallas
+2620,tx,dallas
+2621,ny,new york
+2625,tx,dallas
+2627,tx,houston
+2628,pa,philadelphia
+2629,tx,
+2632,ma,boston
+2633,il,chicago
+2641,fl,
+2642,ma,boston
+2643,nv,las vegas
+2650,ok,
+2658,ny,new york
+2659,ny,new york
+2660,nc,
+2676,va,
+2678,va,
+2685,fl,
+2687,pa,philadelphia
+2692,pa,
+2706,pa,
+2723,ca,
+2725,il,chicago
+2730,ny,new york
+2731,il,chicago
+2737,az,phoenix
+2767,fl,
+2775,ny,new york
+2777,nc,
+2782,il,
+2792,ny,new york
+2798,ca,
+2799,ca,
+2800,ca,
+2801,ca,
+2803,ca,
+2806,fl,
+2820,ca,san francisco
+2828,co,
+2838,az,
+2840,ky,
+2853,ny,new york
+2856,fl,
+2860,fl,
+2861,sc,
+2863,co,denver
+2866,co,denver
+2868,co,denver
+2870,co,denver
+2871,co,denver
+2873,co,denver
+2874,co,denver
+2875,co,denver
+2877,tn,
+2878,co,denver
+2880,co,denver
+2882,co,denver
+2886,in,
+2894,ny,new york
+2902,co,denver
+2907,co,denver
+2909,co,denver
+2913,co,denver
+2914,co,denver
+2917,co,denver
+2934,ma,boston
+2937,fl,
+2939,fl,
+2941,fl,
+2954,fl,
+2965,ca,
+2977,tx,austin
+2983,ny,new york
+2993,ny,new york
+2999,il,
+3019,nc,
+3024,ri,
+3120,nc,charlotte
+3136,ca,
+3183,ca,
+3184,ca,
+3185,ca,
+3186,ca,
+3187,ca,
+3194,ny,new york
+3201,ny,new york
+3202,ny,new york
+3205,ny,new york
+3208,ny,new york
+3209,ny,new york
+3213,ca,san francisco
+3214,ny,new york
+3216,ny,new york
+3219,ny,new york
+3252,co,
+3280,ca,
+3281,ca,los angeles
+3323,va,
+3343,nv,las vegas
+3344,nv,las vegas
+3383,ca,los angeles
+3398,ga,
+3399,ca,san francisco
+3416,ca,
+3417,ca,san francisco
+3441,fl,
+3451,tx,
+3454,tx,
+3462,tx,
+3467,tx,
+3470,fl,
+3472,ny,new york
+3473,tx,
+3483,tx,
+3484,fl,
+3485,wa,washington
+3487,fl,
+3489,ca,san francisco
+3497,ca,san francisco
+3501,ca,
+3502,ca,
+3503,ca,
+3505,ca,
+3507,ca,
+3521,ca,
+3549,ca,san francisco
+3557,tx,houston
+3568,tx,houston
+3574,ny,new york
+3578,tx,dallas
+3580,ca,
+3588,nv,las vegas
+3604,nc,
+3614,il,chicago
+3617,fl,
+3618,fl,
+3619,ca,san francisco
+3620,wa,washington
+3644,ok,
+3654,ca,
+3665,wi,milwaukee
+3673,ny,new york
+3678,ny,new york
+3683,ca,
+3706,ca,
+3715,az,
+3738,ca,
+3740,nc,
+3746,fl,jacksonville
+3753,fl,
+3755,ca,san francisco
+3757,fl,
+3758,wa,washington
+3762,ma,boston
+3771,ia,
+3775,ca,san francisco
+3783,ny,new york
+3789,nv,las vegas
+3794,il,
+3813,ny,new york
+3816,tx,
+3828,ny,new york
+3836,ga,
+3840,nm,
+3855,ca,
+3856,ga,
+3865,ny,new york
+3877,ma,boston
+3886,nm,
+3888,ny,new york
+3895,fl,
+3908,mi,
+3930,fl,
+3931,fl,
+3933,ca,san francisco
+3934,wa,washington
+3958,ca,
+3959,ca,
+3960,ca,
+3961,ca,
+3963,ca,
+3964,az,
+3971,ny,new york
+3974,ca,
+3997,ca,san francisco
+4013,ca,los angeles
+4015,mi,detroit
+4028,nv,las vegas
+4029,nv,las vegas
+4030,nv,las vegas
+4031,nv,las vegas
+4032,nv,las vegas
+4033,nv,las vegas
+4034,nv,las vegas
+4043,va,
+4045,tx,fort worth
+4052,ca,los angeles
+4053,ca,los angeles
+4057,mo,
+4062,al,
+4067,ca,
+4072,pa,
+4077,ma,
+4082,ca,los angeles
+4087,az,
+4094,fl,
+4096,wa,washington
+4097,fl,
+4098,ca,san francisco
+4101,tx,austin
+4110,oh,
+4117,ca,san francisco
+4120,ca,san francisco
+4123,ga,
+4136,ca,
+4138,fl,
+4139,la,los angeles
+4144,fl,
+4187,va,
+4201,tx,
+4222,wa,
+4229,tx,houston
+4234,ma,boston
+4242,ri,
+4243,ri,
+4247,az,phoenix
+4252,ny,new york
+4255,ca,san francisco
+4256,fl,
+4257,wa,washington
+4259,fl,
+4262,ca,
+4263,ca,san diego
+4272,co,
+4279,tn,
+4295,ca,san diego
+4296,ca,
+4304,tx,dallas
+4306,ca,
+4325,ca,san francisco
+4333,wa,washington
+4335,co,denver
+4344,co,denver
+4347,ma,
+4364,ca,
+4368,tx,austin
+4384,ny,new york
+4392,il,chicago
+4416,tn,
+4420,ma,
+4429,ca,san francisco
+4432,wa,washington
+4433,fl,
+4434,fl,
+4437,ca,
+4453,nj,
+4454,ca,
+4455,ca,
+4456,ca,
+4457,ca,
+4459,ca,
+4466,la,
+4470,il,chicago
+4518,ca,
+4525,az,
+4541,ca,san francisco
+4553,ca,los angeles
+4610,il,chicago
+4611,ca,
+4619,fl,
+4626,ca,
+4632,ca,
+4644,nj,
+4646,ma,boston
+4691,ca,
+4700,ny,new york
+4749,wa,washington
+4750,fl,
+4751,ca,san francisco
+4752,fl,
+4773,az,
+4782,fl,
+4795,ca,san francisco
+4800,oh,
+4814,ca,
+4823,il,chicago
+4832,tn,
+4834,ga,
+4859,ca,los angeles
+4866,wa,washington
+4882,il,
+4885,or,
+4902,ny,new york
+4909,ca,
+4914,ca,los angeles
+4922,mi,
+4923,ny,new york
+4924,nv,las vegas
+4925,wi,
+4932,fl,
+4935,ny,new york
+4936,ny,new york
+4955,ny,new york
+4969,ny,new york
+4988,il,chicago
+4991,wa,washington
+5008,ca,san francisco
+5009,fl,
+5010,fl,
+5012,nv,las vegas
+5013,az,
+5016,ca,san diego
+5018,wa,washington
+5027,ca,
+5028,mo,
+5033,fl,
+5034,fl,
+5035,ca,san francisco
+5041,fl,
+5042,ny,new york
+5043,il,chicago
+5052,il,chicago
+5054,co,
+5056,fl,
+5063,ca,
+5072,il,chicago
+5077,ma,boston
+5080,ca,san francisco
+5082,ca,
+5093,fl,
+5109,ca,
+5113,mn,
+5117,fl,
+5121,ri,
+5124,ca,san diego
+5125,ri,
+5130,ca,los angeles
+5131,ny,
+5132,az,
+5138,ca,san francisco
+5182,co,denver
+5198,ga,
+5204,wa,washington
+5205,ct,
+5213,ca,
+5214,ca,
+5216,ca,
+5217,ca,
+5219,ca,
+5227,ct,
+5230,ny,new york
+5271,oh,columbus
+5276,fl,
+5280,ca,los angeles
+5282,ma,boston
+5292,wa,washington
+5297,ca,san francisco
+5299,ct,
+5307,il,
+5321,ny,new york
+5336,ca,
+5341,ca,
+5343,ca,
+5345,az,phoenix
+5348,ca,
+5354,az,
+5358,ca,
+5364,ca,los angeles
+5365,ca,
+5377,ca,
+5394,ny,new york
+5413,ny,new york
+5419,ca,
+5435,tx,
+5439,az,
+5442,il,chicago
+5443,ca,
+5446,ri,
+5457,az,
+5458,ca,
+5460,az,
+5483,nj,
+5486,ma,boston
+5488,il,chicago
+5499,ct,
+5500,mi,detroit
+5502,fl,
+5504,nv,las vegas
+5512,ny,new york
+5515,tx,houston
+5519,ca,
+5521,wa,washington
+5526,ny,new york
+5533,ca,
+5535,ca,
+5536,oh,
+5539,ca,san francisco
+5555,ca,san jose
+5571,hi,
+5573,ut,
+5576,or,
+5589,ca,san jose
+5592,ny,new york
+5600,ca,los angeles
+5615,ma,boston
+5616,ny,new york
+5619,ri,
+5630,ga,
+5632,ri,
+5633,ca,san francisco
+5634,ca,
+5644,ca,los angeles
+5645,ca,los angeles
+5656,ca,
+5661,tx,
+5663,mo,
+5664,fl,
+5679,wa,washington
+5680,ny,new york
+5685,ca,
+5686,ca,
+5687,tx,
+5695,ca,los angeles
+5696,ca,los angeles
+5709,ma,boston
+5710,fl,
+5720,ca,
+5721,ca,
+5722,ca,
+5723,ca,
+5724,ca,
+5726,wa,washington
+5727,dc,washington
+5736,pa,philadelphia
+5739,ca,los angeles
+5740,ma,boston
+5741,in,
+5745,ca,
+5746,ca,san francisco
+5751,tx,
+5752,fl,
+5764,va,
+5773,in,indianapolis
+5782,il,chicago
+5788,ri,
+5791,wa,
+5823,ny,boston
+5841,ca,
+5842,ca,
+5846,va,
+5847,va,
+5859,ny,new york
+5864,va,
+5868,ma,boston
+5869,ny,new york
+5871,il,chicago
+5874,il,chicago
+5875,ri,
+5877,ca,
+5895,il,chicago
+5896,nc,
+5902,ca,los angeles
+5903,il,chicago
+5904,ca,
+5908,ca,los angeles
+5909,il,chicago
+5913,ri,
+5914,fl,
+5926,ca,los angeles
+5929,dc,washington
+5930,il,chicago
+5932,ca,
+5934,il,chicago
+5940,ny,new york
+5944,ny,new york
+5945,ny,new york
+5946,oh,
+5949,ny,new york
+5957,fl,
+5962,nc,
+5969,wa,washington
+5972,ca,los angeles
+5987,fl,
+5990,ca,
+5991,ny,new york
+6009,ca,
+6011,nc,
+6013,il,chicago
+6018,wa,washington
+6025,fl,
+6036,wa,washington
+6038,ny,new york
+6039,ny,
+6040,ma,boston
+6046,ca,los angeles
+6052,ny,new york
+6068,ny,
+6070,ma,boston
+6072,wa,washington
+6076,ca,san francisco
+6087,ca,san francisco
+6105,wa,washington
+6108,wa,washington
+6114,il,chicago
+6134,ca,
+6145,fl,
+6149,fl,
+6165,ca,los angeles
+6167,ca,los angeles
+6168,mo,
+6173,ca,los angeles
+6179,tx,austin
+6181,al,
+6188,ma,boston
+6193,ny,
+6195,fl,
+6199,ny,new york
+6203,il,chicago
+6211,wa,washington
+6217,tx,houston
+6228,ny,new york
+6230,tn,memphis
+6244,pa,
+6255,ca,
+6256,ca,
+6257,ca,
+6258,ca,
+6259,ca,
+6260,tn,memphis
+6269,ca,
+6270,ca,
+6274,il,chicago
+6278,oh,
+6288,fl,
+6298,ga,
+6299,ca,
+6304,tx,
+6327,ny,new york
+6329,ny,new york
+6332,ma,boston
+6334,tx,austin
+6343,wa,washington
+6362,tx,austin
+6364,tx,dallas
+6370,ca,san francisco
+6375,il,chicago
+6378,il,chicago
+6380,ga,
+6397,tx,dallas
+6413,wa,washington
+6414,ny,new york
+6415,ny,new york
+6425,co,denver
+6426,ny,new york
+6428,tx,austin
+6429,ar,
+6431,ny,new york
+6438,il,chicago
+6439,md,
+6446,ny,
+6448,az,
+6459,ny,
+6470,ca,los angeles
+6473,az,
+6474,ny,new york
+6475,tx,
+6478,wa,washington
+6480,mn,
+6487,wa,washington
+6498,ca,los angeles
+6500,fl,
+6505,va,
+6508,fl,
+6514,ca,san diego
+6516,ca,
+6517,mo,
+6523,ca,
+6524,ca,
+6526,wa,washington
+6527,il,chicago
+6537,il,
+6548,ri,
+6549,tx,
+6558,il,chicago
+6559,tx,
+6576,fl,
+6581,fl,jacksonville
+6593,ny,new york
+6596,ny,new york
+6602,tx,dallas
+6607,oh,
+6614,tx,houston
+6621,fl,
+6625,wi,
+6629,fl,
+6633,wa,seattle
+6637,wa,washington
+6653,ca,los angeles
+6656,al,
+6660,wa,washington
+6665,tx,
+6666,oh,
+6683,wa,washington
+6691,nc,
+6696,ky,
+6703,ny,
+6721,nc,
+6729,ca,los angeles
+6730,ca,los angeles
+6731,fl,
+6732,ca,los angeles
+6733,fl,
+6736,fl,
+6738,fl,
+6739,md,
+6740,fl,
+6741,fl,
+6742,fl,
+6743,fl,
+6750,ma,
+6757,fl,
+6760,fl,
+6776,ga,
+6786,ca,los angeles
+6790,ca,los angeles
+6793,nj,
+6797,wi,
+6800,fl,jacksonville
+6813,ny,new york
+6821,fl,
+6826,tx,
+6843,ny,new york
+6865,ny,new york
+6880,fl,
+6887,ca,
+6888,ca,
+6889,ca,
+6890,ca,
+6891,ca,
+6903,tx,dallas
+6942,tn,
+6959,fl,
+6963,wi,milwaukee
+6990,fl,
+6999,nc,
+7022,sc,
+7061,ca,los angeles
+7070,wa,
+7150,ct,
+7177,fl,
+7205,nv,las vegas
+7233,tx,dallas
+7259,fl,
+7301,ca,
+7302,ca,
+7303,ca,
+7304,ca,
+7305,ca,
+7320,az,phoenix
+7322,az,phoenix
+7323,az,phoenix
+7325,az,phoenix
+7327,az,phoenix
+7329,az,phoenix
+7331,az,phoenix
+7332,co,denver
+7346,az,phoenix
+7362,az,phoenix
+7363,or,
+7365,az,phoenix
+7366,az,phoenix
+7369,az,phoenix
+7371,ca,
+7372,az,phoenix
+7373,az,phoenix
+7375,az,phoenix
+7377,az,phoenix
+7379,az,phoenix
+7381,az,phoenix
+7396,co,
+7411,ny,new york
+7413,ca,san francisco
+7418,ny,new york
+7460,va,
+7486,nv,las vegas
+7487,nv,las vegas
+7488,nv,las vegas
+7489,nv,las vegas
+7490,nv,las vegas
+7491,nv,las vegas
+7492,nv,las vegas
+7521,nv,las vegas
+7532,ca,los angeles
+7538,hi,
+7550,ca,
+7580,ca,
+7587,ca,san francisco
+7598,ca,
+7604,la,los angeles
+7615,oh,
+7616,ca,san francisco
+7618,wa,washington
+7630,ca,los angeles
+7631,ca,
+7648,ca,
+7649,ca,los angeles
+7651,oh,
+7680,la,los angeles
+7681,ca,
+7692,tn,
+7695,fl,
+7706,az,phoenix
+7711,ca,
+7712,ca,
+7713,ca,
+7714,ca,
+7715,ca,
+7737,fl,
+7745,tx,
+7752,wa,washington
+7759,ga,
+7760,ca,san francisco
+7768,ca,
+7769,ca,los angeles
+7780,ca,
+7789,ca,san francisco
+7792,in,indianapolis
+7796,ca,
+7798,tn,
+7802,ca,
+7805,il,chicago
+7811,ca,
+7819,or,portland
+7831,ca,san francisco
+7832,nc,
+7835,il,chicago
+7836,nv,las vegas
+7837,nv,las vegas
+7838,nv,las vegas
+7839,nv,las vegas
+7840,nv,las vegas
+7841,nv,las vegas
+7842,nv,las vegas
+7846,oh,
+7851,nv,las vegas
+7855,tx,
+7866,tx,dallas
+7868,ca,san francisco
+7872,il,chicago
+7885,in,
+7888,fl,
+7904,ny,new york
+7917,fl,
+7930,wa,seattle
+7934,oh,columbus
+7935,oh,columbus
+7936,ca,
+7944,oh,columbus
+7945,oh,columbus
+7946,oh,columbus
+7947,va,
+7948,oh,columbus
+7952,ca,
+7955,il,chicago
+7970,ca,
+7972,wa,seattle
+7974,ny,new york
+7975,md,baltimore
+7987,nv,las vegas
+7991,ca,los angeles
+7993,tx,
+7997,ca,
+7998,pa,
+8007,ca,san francisco
+8010,ma,
+8032,ny,
+8048,ny,new york
+8049,fl,
+8069,va,
+8070,tx,dallas
+8074,va,
+8077,ca,los angeles
+8085,ca,los angeles
+8090,nj,
+8097,md,
+8099,co,denver
+8112,fl,
+8121,wa,seattle
+8129,ca,los angeles
+8133,ca,los angeles
+8137,ca,
+8138,ca,
+8139,ca,
+8140,ca,
+8142,ca,
+8164,ny,new york
+8177,tx,austin
+8183,ca,
+8187,de,
+8188,ca,los angeles
+8194,ca,
+8205,ga,
+8206,ny,
+8207,ny,
+8225,tx,
+8232,ca,
+8235,ca,
+8237,in,indianapolis
+8238,tn,memphis
+8239,ny,new york
+8240,ny,new york
+8241,tx,san antonio
+8242,oh,
+8243,tx,dallas
+8244,az,phoenix
+8245,ca,
+8246,pa,philadelphia
+8247,ut,
+8248,ca,los angeles
+8249,fl,
+8250,md,baltimore
+8251,ny,new york
+8252,ga,
+8253,tx,houston
+8255,in,indianapolis
+8256,mo,
+8257,mn,
+8258,ne,
+8259,wa,seattle
+8260,or,
+8262,la,los angeles
+8263,mn,
+8264,il,chicago
+8265,ca,san francisco
+8266,mn,
+8267,fl,
+8268,az,phoenix
+8269,al,
+8270,ca,san diego
+8271,mo,
+8273,wa,washington
+8274,nc,charlotte
+8275,wi,milwaukee
+8276,ok,
+8277,tx,dallas
+8278,wi,milwaukee
+8279,ca,
+8280,ny,new york
+8281,fl,
+8282,fl,
+8283,ga,
+8285,ca,los angeles
+8286,ny,
+8287,mi,detroit
+8288,ok,
+8289,il,chicago
+8290,co,denver
+8291,tx,houston
+8292,wa,washington
+8293,or,portland
+8294,ma,boston
+8295,mo,
+8296,ca,
+8297,ca,
+8298,ma,boston
+8299,ny,new york
+8300,ny,new york
+8301,tn,
+8302,ca,
+8303,ca,los angeles
+8304,az,
+8305,pa,philadelphia
+8306,tx,houston
+8307,fl,
+8308,il,chicago
+8309,ga,
+8310,wa,seattle
+8311,mi,detroit
+8312,il,chicago
+8313,tx,
+8314,co,denver
+8315,oh,
+8316,ca,
+8317,ca,los angeles
+8318,va,
+8319,mi,detroit
+8320,ut,
+8321,ca,los angeles
+8323,wa,washington
+8326,la,los angeles
+8327,pa,
+8328,mi,detroit
+8329,ca,
+8330,fl,
+8331,ga,
+8332,co,denver
+8333,ms,
+8334,ny,new york
+8335,fl,jacksonville
+8336,ny,new york
+8337,md,baltimore
+8338,nc,charlotte
+8339,az,phoenix
+8340,sc,
+8341,ks,
+8342,ma,boston
+8343,or,
+8345,id,
+8346,fl,
+8347,tn,
+8348,oh,
+8350,ia,
+8351,mo,
+8352,wa,seattle
+8353,tx,austin
+8354,sc,
+8355,wv,
+8356,wi,
+8357,mi,
+8358,mi,
+8359,fl,
+8360,nj,
+8361,ny,new york
+8362,fl,
+8363,ny,new york
+8364,pa,philadelphia
+8366,nc,
+8367,al,
+8368,wi,
+8369,tx,
+8370,in,
+8371,ny,
+8372,pa,
+8373,pa,philadelphia
+8374,ny,new york
+8375,ny,new york
+8378,pa,philadelphia
+8380,ny,new york
+8381,mi,detroit
+8394,ut,
+8395,ca,
+8399,il,chicago
+8410,al,
+8425,ca,los angeles
+8438,ny,new york
+8445,mi,
+8473,co,denver
+8480,wa,seattle
+8486,fl,
+8489,ga,
+8493,il,chicago
+8499,fl,
+8513,nj,
+8520,ny,
+8522,fl,
+8536,ca,
+8542,wa,washington
+8566,fl,
+8568,tx,austin
+8574,fl,
+8577,wa,seattle
+8582,mi,
+8591,pa,philadelphia
+8593,ca,
+8599,ca,
+8621,ca,
+8635,ca,san francisco
+8649,ca,
+8660,ca,
+8671,ca,san francisco
+8674,ca,
+8689,mi,
+8701,ny,
+8707,ca,san francisco
+8708,ny,new york
+8711,ny,new york
+8739,ny,new york
+8740,ny,new york
+8741,nm,
+8742,co,denver
+8747,md,
+8748,ca,los angeles
+8752,or,portland
+8755,ca,
+8759,fl,
+8761,ca,los angeles
+8775,ca,los angeles
+8785,ca,
+8786,ca,
+8787,ca,
+8788,ca,
+8789,ca,
+8793,nj,
+8794,nm,
+8796,nc,
+8800,ca,los angeles
+8814,nm,
+8824,ny,
+8838,ny,
+8844,tx,dallas
+8862,wa,washington
+8863,ny,new york
+8906,fl,
+8912,ma,
+8932,tx,
+8933,wa,
+8954,ny,new york
+8976,co,denver
+8984,ca,los angeles
+8994,va,
+8996,al,
+9006,tx,
+9013,wa,washington
+9015,ny,
+9020,ca,los angeles
+9021,tx,houston
+9032,ga,
+9041,ny,new york
+9043,ny,new york
+9044,ny,new york
+9051,md,
+9056,ca,
+9058,nv,
+9068,ca,
+9073,ny,new york
+9079,ny,
+9082,ca,san jose
+9090,fl,
+9093,il,chicago
+9099,ga,
+9105,il,chicago
+9106,wa,seattle
+9114,ca,
+9118,al,
+9126,il,chicago
+9131,ca,
+9138,ct,
+9140,ca,
+9143,ny,
+9152,tx,austin
+9157,tx,
+9162,mn,
+9165,ca,san francisco
+9170,wa,washington
+9180,wa,washington
+9182,wa,seattle
+9184,ca,los angeles
+9193,or,
+9200,ca,san francisco
+9208,ca,san diego
+9213,mi,detroit
+9215,ga,
+9216,ca,
+9224,in,indianapolis
+9229,ca,los angeles
+9231,ny,new york
+9233,ca,san diego
+9236,sc,
+9243,ks,
+9244,ca,
+9246,ca,los angeles
+9251,tx,austin
+9255,ca,
+9274,nc,
+9276,ca,
+9279,nm,
+9284,ga,
+9288,ca,
+9292,ca,
+9301,ny,new york
+9312,ca,
+9324,ca,
+9325,ca,los angeles
+9330,ca,
+9337,co,denver
+9338,co,denver
+9355,la,los angeles
+9356,la,los angeles
+9379,tn,
+9415,tx,
+9417,va,
+9462,pa,
+9478,wa,washington
+9480,ny,new york
+9484,wa,washington
+9495,ny,new york
+9517,tn,
+9569,tx,dallas
+9586,ga,
+9594,ca,
+9595,ca,
+9604,nj,
+9605,fl,
+9622,tx,austin
+9629,az,
+9633,hi,
+9636,va,
+9644,mo,
+9649,ca,san francisco
+9658,ca,
+9673,hi,
+9683,il,chicago
+9687,ca,
+9688,ca,
+9689,ca,
+9690,ca,
+9692,ca,
+9695,tx,houston
+9699,nm,
+9706,ca,san francisco
+9714,ca,san francisco
+9730,ga,
+9760,tn,memphis
+9772,ca,
+9775,tn,memphis
+9783,va,
+9789,fl,
+9796,ma,boston
+9803,ca,san francisco
+9804,ny,new york
+9807,hi,
+9809,oh,
+9810,ny,new york
+9831,pa,philadelphia
+9838,ca,san francisco
+9840,ca,san francisco
+9851,tx,
+9856,ca,san francisco
+9861,ca,los angeles
+9862,ca,san francisco
+9864,ca,san francisco
+9870,nc,
+9875,wa,washington
+9876,ca,
+9883,il,chicago
+9896,wa,washington
+9900,ca,
+9913,wa,washington
+9918,nc,
+9920,fl,jacksonville
+9929,tx,san antonio
+9930,ca,
+9939,nj,
+9945,ca,san francisco
+9962,ny,new york
+9972,tn,memphis
+9980,ca,san francisco
+9982,hi,
+9986,ma,boston
+9997,ca,
+10002,ca,
+10004,oh,
+10009,oh,
+10010,ma,boston
+10016,tx,
+10017,nj,
+10024,ca,san diego
+10025,ny,new york
+10027,mn,
+10035,nv,las vegas
+10036,ca,
+10044,ca,san francisco
+10050,mo,
+10058,fl,
+10074,fl,
+10079,oh,
+10094,tx,dallas
+10102,ca,
+10104,fl,
+10120,ca,
+10122,la,los angeles
+10123,ca,
+10130,ca,
+10134,oh,columbus
+10135,oh,columbus
+10136,oh,columbus
+10138,ca,los angeles
+10139,mn,
+10160,oh,
+10162,ca,
+10168,nv,las vegas
+10171,ny,
+10173,tx,
+10177,ca,
+10180,tx,austin
+10181,mi,
+10183,ca,
+10189,ne,
+10190,ny,new york
+10191,ca,
+10192,il,chicago
+10196,ca,
+10202,ca,
+10204,nm,
+10208,ca,
+10211,ca,
+10213,tx,houston
+10219,ne,
+10221,tx,houston
+10223,md,
+10234,oh,
+10236,ca,
+10237,ca,san francisco
+10239,ct,
+10241,ny,new york
+10242,ny,new york
+10244,ny,new york
+10248,ca,
+10250,ca,los angeles
+10253,ca,san diego
+10256,nv,las vegas
+10261,ny,new york
+10262,ga,
+10263,ca,
+10269,or,
+10270,wa,seattle
+10271,ca,
+10275,ca,los angeles
+10276,fl,
+10279,fl,
+10280,fl,
+10281,fl,
+10293,tx,austin
+10304,az,phoenix
+10307,va,
+10312,vt,
+10313,pa,new york
+10315,tx,austin
+10329,ga,
+10346,ma,boston
+10355,ky,
+10360,ca,san francisco
+10366,az,
+10388,mi,
+10392,tx,fort worth
+10395,il,chicago
+10397,fl,jacksonville
+10398,fl,
+10399,tx,
+10404,ca,san francisco
+10410,ca,san francisco
+10415,ny,new york
+10422,ny,new york
+10423,ca,
+10424,ca,
+10427,nc,
+10433,ny,new york
+10436,ca,san francisco
+10437,ca,san francisco
+10447,fl,jacksonville
+10457,ca,san francisco
+10458,ca,
+10459,ca,
+10460,ca,
+10461,ca,
+10463,ca,
+10481,ga,
+10492,ga,
+10493,ca,
+10494,ma,boston
+10495,ma,boston
+10497,ma,
+10498,ca,san diego
+10500,hi,
+10513,wi,
+10514,wi,
+10517,ga,
+10519,ca,
+10520,ma,
+10521,vt,
+10522,wa,washington
+10531,nc,
+10543,il,chicago
+10545,nc,
+10547,ct,
+10553,wa,seattle
+10577,ca,
+10591,dc,washington
+10599,ca,san francisco
+10600,ga,
+10606,tx,houston
+10611,ga,
+10624,tx,
+10625,oh,
+10631,fl,
+10633,dc,washington
+10636,ca,
+10644,nj,
+10654,ca,san francisco
+10661,ma,boston
+10663,nc,
+10666,vt,
+10668,az,
+10675,ca,san diego
+10679,ca,
+10681,ga,
+10690,nc,
+10692,ny,new york
+10698,nc,charlotte
+10707,ga,
+10709,ca,
+10711,ca,
+10713,oh,columbus
+10723,ca,
+10729,ca,
+10743,ut,
+10746,hi,
+10747,ca,
+10756,ca,
+10757,ma,boston
+10759,va,
+10765,ca,
+10777,va,
+10779,ca,
+10783,ca,
+10785,ca,
+10787,ny,new york
+10789,ca,los angeles
+10792,ca,san francisco
+10794,ca,
+10818,ky,
+10825,il,chicago
+10827,tx,houston
+10832,co,
+10859,fl,
+10862,ca,
+10872,oh,columbus
+10877,ca,
+10878,tx,austin
+10880,tx,
+10884,ga,
+10889,wa,washington
+10896,nj,
+10905,ca,
+10916,nc,
+10917,or,portland
+10918,ca,
+10933,la,
+10934,la,los angeles
+10935,ca,san diego
+10945,wa,washington
+10951,ny,new york
+10952,ny,new york
+10957,tx,
+10960,oh,
+10961,ca,
+10962,oh,
+10964,ca,
+10970,ca,los angeles
+10974,ca,
+10981,nj,
+10995,ca,
+10997,hi,
+11006,pa,
+11010,il,chicago
+11032,hi,
+11038,tx,austin
+11058,ca,
+11061,ca,
+11068,tx,austin
+11069,tx,austin
+11070,tx,austin
+11071,ca,san francisco
+11073,ca,
+11076,tn,
+11077,oh,
+11088,wa,washington
+11090,ca,
+11097,va,
+11103,nv,
+11108,tn,memphis
+11131,ny,new york
+11145,ny,new york
+11149,pa,philadelphia
+11150,ca,
+11154,nc,charlotte
+11160,hi,
+11163,tn,
+11166,ny,new york
+11172,wa,
+11201,il,chicago
+11202,or,portland
+11216,or,portland
+11228,ca,san francisco
+11233,in,
+11235,oh,
+11243,ct,
+11246,fl,
+11251,ca,
+11254,fl,
+11262,fl,
+11271,ny,new york
+11276,ma,boston
+11302,tn,
+11306,ca,
+11314,ca,
+11316,ma,boston
+11336,ma,boston
+11345,tx,houston
+11357,tx,
+11407,tx,
+11411,az,phoenix
+11425,co,denver
+11428,co,denver
+11442,ny,new york
+11446,id,
+11455,or,portland
+11456,ca,
+11457,ca,
+11458,ca,
+11459,ca,
+11460,ca,
+11462,nc,
+11464,il,chicago
+11468,wa,washington
+11477,ny,new york
+11478,wi,milwaukee
+11492,tx,
+11497,ky,
+11498,mn,austin
+11502,ca,
+11503,tx,
+11506,ct,
+11507,pa,
+11510,nj,
+11511,oh,
+11513,fl,
+11515,oh,
+11523,ca,
+11525,ca,
+11528,ar,
+11530,al,
+11531,az,
+11541,tn,
+11546,ar,
+11551,or,portland
+11556,la,los angeles
+11571,ca,
+11576,mt,
+11578,ca,
+11579,ca,los angeles
+11582,wa,seattle
+11601,oh,
+11611,ca,los angeles
+11626,ia,
+11629,tx,
+11644,fl,
+11658,ny,new york
+11669,tn,
+11685,ny,new york
+11694,ny,new york
+11702,tx,
+11705,ny,new york
+11706,ny,new york
+11708,ca,
+11713,wa,washington
+11714,tx,
+11715,ca,san jose
+11725,wa,washington
+11749,wa,washington
+11779,pa,philadelphia
+11784,ny,new york
+11814,fl,
+11827,il,chicago
+11835,fl,
+11836,tx,austin
+11842,tx,austin
+11850,ca,
+11853,il,chicago
+11858,ny,new york
+11886,oh,columbus
+11888,mi,
+11908,ca,
+11909,il,chicago
+11914,ny,
+11917,wa,
+11940,tx,austin
+11949,ia,
+11951,ny,new york
+11977,ca,
+11995,il,
+12000,ca,
+12008,oh,columbus
+12009,oh,columbus
+12010,oh,columbus
+12011,oh,columbus
+12029,pa,
+12050,ca,los angeles
+12054,ne,
+12057,oh,
+12070,tx,austin
+12074,tx,
+12077,ny,new york
+12081,nj,
+12090,tx,
+12099,ma,boston
+12103,ca,los angeles
+12123,ny,new york
+12128,pa,
+12133,ny,new york
+12145,ny,new york
+12149,ny,new york
+12159,ma,boston
+12171,nc,
+12187,tx,austin
+12193,tx,austin
+12208,fl,
+12209,ny,new york
+12224,pa,philadelphia
+12251,fl,
+12261,mo,
+12296,ny,
+12310,ny,new york
+12326,ca,
+12327,ca,
+12328,ca,
+12329,ca,
+12331,ca,
+12335,tn,
+12336,mi,
+12372,co,denver
+12376,ca,san diego
+12383,ny,new york
+12389,nm,
+12429,in,
+12440,ca,san francisco
+12444,oh,
+12447,oh,
+12457,nj,
+12470,ks,
+12476,nv,las vegas
+12489,fl,
+12490,oh,columbus
+12527,oh,columbus
+12584,ny,new york
+12606,tn,
+12610,ny,new york
+12616,md,
+12632,wa,seattle
+12635,wa,seattle
+12637,wa,seattle
+12639,wa,seattle
+12640,wa,seattle
+12644,wa,seattle
+12645,wa,seattle
+12646,wa,seattle
+12647,wa,seattle
+12648,wa,seattle
+12649,wa,seattle
+12650,wa,seattle
+12653,wa,seattle
+12654,wa,seattle
+12657,wa,seattle
+12658,wa,seattle
+12659,wa,seattle
+12660,wa,seattle
+12693,il,chicago
+12699,ca,los angeles
+12707,ca,san francisco
+12718,tx,dallas
+12722,mi,detroit
+12730,ca,
+12731,ca,
+12732,ca,
+12733,ca,
+12734,ca,
+12738,ca,san francisco
+12749,il,chicago
+12777,ma,boston
+12788,oh,
+12818,tx,austin
+12828,ca,
+12853,ca,
+12909,wa,washington
+12951,co,denver
+12954,az,
+12967,ca,
+12998,ca,
+13003,ny,new york
+13004,wa,washington
+13024,ca,
+13036,il,chicago
+13044,ks,
+13050,mi,detroit
+13059,wa,washington
+13070,ca,san francisco
+13075,ny,new york
+13077,ca,
+13078,ca,
+13079,ca,
+13080,ca,
+13082,ca,
+13103,ny,new york
+13110,ca,san francisco
+13117,ca,
+13119,wa,washington
+13150,il,chicago
+13151,ca,los angeles
+13157,az,
+13161,ca,san francisco
+13170,ca,los angeles
+13172,ca,los angeles
+13174,ca,
+13195,wa,seattle
+13199,ca,
+13206,ca,
+13207,ca,
+13214,ca,los angeles
+13219,ca,los angeles
+13222,ca,los angeles
+13226,ny,new york
+13245,ca,san francisco
+13247,wi,
+13255,nv,las vegas
+13264,oh,columbus
+13265,mn,
+13267,ca,san francisco
+13272,pa,philadelphia
+13278,pa,philadelphia
+13282,mi,
+13292,tx,houston
+13299,ny,new york
+13300,ca,
+13309,il,chicago
+13315,tx,houston
+13317,ca,san diego
+13319,ma,boston
+13325,ca,
+13329,ca,los angeles
+13335,ga,
+13336,tx,houston
+13344,ca,san diego
+13345,ca,san francisco
+13363,al,
+13367,il,
+13374,oh,
+13383,ca,san francisco
+13392,ca,
+13395,va,
+13400,ca,los angeles
+13403,ca,
+13408,ca,los angeles
+13410,ca,los angeles
+13411,az,phoenix
+13412,va,
+13414,co,
+13417,ky,
+13419,tn,memphis
+13425,az,phoenix
+13431,ca,
+13432,ca,
+13433,ca,
+13434,ca,
+13435,ca,
+13441,wa,seattle
+13443,ca,los angeles
+13455,tn,
+13460,ma,boston
+13467,nj,
+13472,ny,
+13474,or,portland
+13486,tx,austin
+13487,tx,austin
+13489,tx,houston
+13490,nj,
+13491,ny,new york
+13496,va,
+13504,tx,san antonio
+13505,tx,austin
+13506,tx,austin
+13527,tx,austin
+13528,tx,houston
+13533,al,
+13536,nc,
+13542,nc,
+13549,nv,las vegas
+13556,tx,austin
+13557,ca,
+13559,pa,
+13560,tx,austin
+13561,ca,los angeles
+13562,tx,austin
+13565,ca,san francisco
+13572,la,los angeles
+13575,al,
+13578,tx,san antonio
+13586,tx,austin
+13588,al,
+13592,ca,san francisco
+13593,tx,austin
+13594,tx,austin
+13595,tx,austin
+13603,ma,boston
+13604,tx,austin
+13612,oh,columbus
+13613,oh,columbus
+13614,tx,austin
+13621,tx,austin
+13624,tx,austin
+13630,md,baltimore
+13636,tx,austin
+13637,ca,los angeles
+13638,ca,los angeles
+13644,ca,
+13646,ar,
+13647,ca,san francisco
+13650,ca,san francisco
+13651,ca,san francisco
+13652,ca,san francisco
+13654,ca,
+13657,ny,new york
+13660,ca,san jose
+13662,ca,los angeles
+13669,tx,houston
+13674,ca,
+13675,tx,austin
+13676,or,portland
+13677,wa,seattle
+13678,ny,new york
+13680,ca,san francisco
+13681,tx,
+13684,ca,san francisco
+13694,tx,austin
+13695,tx,austin
+13698,la,los angeles
+13707,tx,
+13710,az,
+13719,tx,houston
+13720,il,
+13723,mo,
+13724,ma,boston
+13725,co,denver
+13732,tx,
+13734,ca,los angeles
+13735,ca,san francisco
+13738,il,
+13762,sc,
+13764,ok,
+13766,nc,charlotte
+13767,mo,
+13768,la,los angeles
+13774,ca,san francisco
+13781,ny,
+13782,ca,san francisco
+13783,nj,
+13784,ca,los angeles
+13786,wa,washington
+13787,mo,
+13800,il,chicago
+13805,nv,las vegas
+13808,ny,new york
+13809,ca,
+13811,tx,
+13813,ca,
+13815,fl,
+13821,wa,washington
+13823,pa,
+13826,wa,washington
+13827,ca,
+13828,ca,
+13830,ca,
+13831,ca,
+13833,ca,
+13834,tx,austin
+13836,tx,houston
+13843,ca,san francisco
+13845,ny,new york
+13846,fl,
+13848,ca,san francisco
+13851,ca,
+13852,ca,los angeles
+13862,ny,new york
+13864,ca,
+13866,ca,los angeles
+13868,ca,san francisco
+13875,ca,
+13877,il,chicago
+13881,ca,san francisco
+13884,ma,boston
+13885,ca,san francisco
+13887,ca,san francisco
+13888,ca,
+13889,fl,
+13900,ca,
+13902,az,
+13908,ca,los angeles
+13909,ca,los angeles
+13914,fl,
+13915,co,denver
+13927,vt,
+13935,ny,new york
+13936,ny,new york
+13937,ca,
+13938,ca,san francisco
+13940,nv,las vegas
+13943,ca,san francisco
+13946,ca,san francisco
+13947,pa,
+13948,nj,
+13952,ri,
+13960,nh,
+13965,fl,
+13974,il,
+13981,ca,los angeles
+13985,ca,los angeles
+13987,ga,
+13988,il,chicago
+13992,ca,san jose
+14001,nv,
+14006,fl,
+14009,ny,new york
+14019,co,denver
+14021,az,
+14022,ny,new york
+14024,tn,memphis
+14025,oh,columbus
+14038,co,denver
+14041,ca,san francisco
+14042,ma,boston
+14053,ny,new york
+14063,fl,
+14064,ca,los angeles
+14094,ca,
+14100,ca,san francisco
+14114,va,
+14116,tx,
+14119,ca,
+14133,co,
+14135,ca,los angeles
+14136,co,denver
+14137,sc,
+14142,ca,
+14143,al,
+14153,tx,
+14165,fl,
+14198,ca,los angeles
+14200,az,
+14205,tx,austin
+14206,tx,austin
+14208,fl,
+14213,il,chicago
+14219,ca,san francisco
+14226,ca,
+14230,ky,
+14237,ma,
+14239,ca,
+14245,me,
+14250,ga,
+14254,pa,
+14256,ma,
+14261,ca,san diego
+14265,il,chicago
+14270,ny,new york
+14272,ny,new york
+14274,dc,washington
+14279,ca,san francisco
+14280,ri,
+14287,ny,new york
+14288,ny,new york
+14293,ny,new york
+14298,ga,
+14304,pa,
+14319,or,portland
+14351,ca,
+14352,ca,
+14353,ca,
+14354,ca,
+14356,ca,
+14361,ca,los angeles
+14374,ca,
+14383,ga,
+14388,mi,detroit
+14389,wa,
+14390,wa,
+14391,wa,
+14392,wa,
+14393,wa,
+14394,wa,
+14395,tn,memphis
+14396,az,
+14403,az,phoenix
+14416,la,los angeles
+14420,ca,los angeles
+14444,mi,
+14450,tx,austin
+14451,ca,
+14455,ca,
+14459,or,
+14461,ma,boston
+14464,nv,las vegas
+14465,ca,
+14470,fl,
+14471,tx,
+14477,nv,
+14481,va,
+14482,oh,
+14487,oh,
+14488,il,
+14490,fl,
+14494,ca,los angeles
+14504,ca,san diego
+14511,va,
+14519,ca,los angeles
+14527,ga,
+14539,vt,
+14540,ca,
+14545,il,chicago
+14552,ma,boston
+14555,or,portland
+14558,wa,seattle
+14561,or,portland
+14564,ca,san diego
+14578,ca,san francisco
+14589,ca,san francisco
+14596,fl,
+14598,fl,
+14609,tx,houston
+14630,ny,new york
+14640,ut,
+14649,ca,
+14656,wv,
+14658,wa,washington
+14659,ut,
+14672,ca,los angeles
+14676,or,
+14677,nc,
+14679,ca,san diego
+14690,ca,los angeles
+14698,ny,new york
+14708,co,denver
+14719,fl,
+14723,ny,new york
+14728,ny,new york
+14741,ga,
+14743,ca,los angeles
+14752,vt,
+14757,nv,las vegas
+14762,ma,
+14764,co,denver
+14765,vt,
+14769,nv,
+14774,ca,
+14778,ny,new york
+14779,wa,washington
+14780,ca,
+14781,ca,
+14782,ca,
+14783,ca,
+14784,ca,
+14785,ca,
+14786,co,denver
+14787,vt,
+14804,ny,new york
+14809,co,denver
+14817,ny,new york
+14820,oh,
+14824,tx,austin
+14829,ny,new york
+14830,ga,
+14841,il,chicago
+14845,oh,
+14853,ut,
+14867,ca,
+14872,ny,new york
+14873,ny,new york
+14878,oh,
+14881,ca,san diego
+14889,wa,
+14897,al,
+14901,ca,
+14906,ut,
+14911,tx,san antonio
+14913,tx,austin
+14915,ny,new york
+14916,ca,los angeles
+14919,ca,san francisco
+14921,ny,
+14933,ca,
+14945,ca,
+14946,mt,
+14950,pa,
+14952,tn,
+14953,dc,washington
+14957,wa,washington
+14959,fl,
+14969,tx,
+14985,co,denver
+14990,ny,new york
+14998,ny,new york
+15009,ga,
+15016,fl,
+15019,va,
+15029,ca,san diego
+15030,ga,
+15038,nv,las vegas
+15047,nh,
+15048,il,chicago
+15059,wa,washington
+15069,va,
+15071,ny,new york
+15085,ma,boston
+15094,ma,boston
+15105,ar,
+15119,ca,san diego
+15121,fl,
+15122,wi,
+15134,ny,
+15141,ca,
+15156,co,denver
+15162,tx,houston
+15163,fl,
+15168,fl,
+15172,tx,san antonio
+15186,ny,new york
+15209,tx,houston
+15216,fl,
+15226,ca,
+15227,ca,
+15228,ca,
+15229,ca,
+15230,ca,
+15232,tx,houston
+15242,ma,boston
+15243,ca,los angeles
+15249,wa,washington
+15255,ny,new york
+15256,ny,new york
+15257,ma,
+15270,ct,
+15278,wa,washington
+15285,ut,
+15289,wi,
+15293,ca,los angeles
+15297,wa,washington
+15317,az,
+15318,nc,
+15320,ma,boston
+15338,ny,new york
+15354,mi,detroit
+15362,pa,philadelphia
+15379,ny,
+15380,ny,new york
+15399,ca,san francisco
+15403,ca,san francisco
+15406,ny,
+15415,fl,
+15426,fl,jacksonville
+15458,ma,
+15463,ma,
+15471,ca,san francisco
+15478,in,indianapolis
+15506,tx,
+15512,va,
+15518,oh,
+15520,nj,
+15529,ny,new york
+15531,ny,new york
+15534,wi,
+15538,ny,new york
+15560,ny,
+15561,co,
+15575,ca,
+15576,tn,
+15614,ca,
+15615,ca,
+15616,ca,
+15617,ca,
+15618,ca,
+15622,ma,
+15628,mi,
+15654,tx,
+15677,tx,houston
+15680,ny,new york
+15695,tx,
+15733,pa,philadelphia
+15747,oh,columbus
+15748,oh,columbus
+15762,wa,washington
+15775,ca,
+15791,wa,seattle
+15859,ca,los angeles
+15861,il,chicago
+15879,ca,
+15886,ca,
+15898,ca,
+15903,ca,
+15904,ca,
+15906,ca,san francisco
+15907,ny,new york
+15909,ca,
+15910,ny,new york
+15912,ny,new york
+15913,ny,new york
+15917,ca,
+15918,ca,
+15919,ca,
+15920,ca,
+15921,ca,
+15928,ca,los angeles
+15930,ca,
+15947,ca,
+15948,tx,fort worth
+15950,ny,new york
+15951,ny,new york
+15954,ny,new york
+15955,ny,new york
+15956,ca,
+15957,ny,new york
+15960,ny,new york
+15961,ny,new york
+15991,ca,san francisco
+15996,ca,
+15997,ca,
+15998,ca,
+15999,ca,
+16001,ca,
+16004,wi,
+16019,fl,
+16021,wa,seattle
+16030,ny,
+16064,nv,las vegas
+16081,tx,dallas
+16092,sd,
+16093,pa,
+16094,ca,
+16099,ca,
+16104,ca,
+16131,oh,columbus
+16133,oh,columbus
+16144,ca,san diego
+16147,ca,
+16173,ca,
+16174,tx,fort worth
+16177,ca,
+16187,ca,
+16188,ca,
+16193,ca,
+16204,ca,
+16213,ca,
+16214,ca,
+16216,ca,
+16223,va,
+16225,ga,
+16226,ca,los angeles
+16229,ca,los angeles
+16230,fl,
+16231,ca,los angeles
+16234,ca,
+16237,ca,
+16238,ca,los angeles
+16249,ca,los angeles
+16258,ca,san francisco
+16271,ca,san diego
+16272,nv,
+16282,va,
+16292,ca,
+16293,ca,
+16294,ca,
+16295,ca,
+16296,ca,
+16316,md,baltimore
+16336,ga,
+16348,nj,
+16359,ny,new york
+16361,oh,columbus
+16362,ny,new york
+16368,al,
+16370,ca,san francisco
+16373,hi,
+16382,az,
+16384,ca,san francisco
+16393,nv,las vegas
+16400,oh,columbus
+16401,oh,columbus
+16407,hi,
+16408,ca,
+16414,wa,washington
+16419,nv,las vegas
+16426,ny,new york
+16437,ca,los angeles
+16438,ca,san francisco
+16439,fl,
+16446,ca,los angeles
+16450,ky,
+16462,tx,houston
+16464,pa,
+16469,ca,
+16474,dc,washington
+16475,ca,san francisco
+16478,ca,los angeles
+16479,wa,washington
+16483,in,
+16485,az,
+16486,ca,
+16490,fl,
+16511,tx,
+16513,il,
+16525,mo,
+16535,tx,fort worth
+16538,az,phoenix
+16539,oh,columbus
+16552,nv,las vegas
+16561,ca,
+16568,ca,
+16569,ca,
+16570,ca,
+16571,ca,
+16572,ca,
+16574,ms,
+16581,oh,
+16582,tx,
+16588,tx,dallas
+16589,ny,new york
+16599,fl,
+16602,wa,washington
+16603,wa,washington
+16618,md,baltimore
+16629,ny,
+16636,ga,
+16643,ny,new york
+16651,ca,san diego
+16653,ca,san francisco
+16665,wa,washington
+16666,wa,seattle
+16672,or,portland
+16679,tx,austin
+16680,ca,
+16690,tx,
+16693,ca,
+16694,ca,
+16695,ca,
+16703,ny,new york
+16710,ca,
+16718,ma,boston
+16720,oh,columbus
+16722,oh,
+16730,pa,
+16736,tx,
+16739,oh,
+16743,tx,houston
+16756,oh,columbus
+16757,ca,los angeles
+16760,ca,
+16762,wa,washington
+16766,nv,las vegas
+16771,ca,
+16777,md,
+16778,ca,san francisco
+16781,ca,
+16787,pa,philadelphia
+16788,ga,
+16791,fl,
+16794,fl,
+16796,la,los angeles
+16809,ca,san francisco
+16828,co,denver
+16830,ny,new york
+16835,tx,
+16860,ca,
+16870,ca,
+16874,mi,
+16875,nc,charlotte
+16877,nj,
+16878,or,portland
+16880,mi,
+16887,ri,
+16896,tx,dallas
+16897,tx,dallas
+16912,nj,
+16913,ri,
+16920,ca,
+16921,ca,
+16922,ca,
+16923,ca,
+16925,ca,
+16927,al,
+16934,ri,
+16938,ca,los angeles
+16940,ca,
+16946,ca,los angeles
+16953,az,phoenix
+16954,ma,boston
+16955,hi,
+16957,ma,boston
+16983,ca,san francisco
+17009,ny,new york
+17012,ca,los angeles
+17018,ca,san francisco
+17025,co,
+17029,fl,
+17034,il,chicago
+17041,fl,
+17042,ca,
+17052,ok,
+17053,ca,san jose
+17054,ok,
+17067,ca,
+17068,ca,
+17070,ca,los angeles
+17093,wa,washington
+17095,ca,san francisco
+17096,ca,los angeles
+17102,or,portland
+17104,co,denver
+17110,ny,
+17118,oh,columbus
+17119,oh,columbus
+17120,oh,columbus
+17128,ca,san francisco
+17137,pa,philadelphia
+17141,ct,
+17142,hi,
+17152,hi,
+17154,tn,
+17156,hi,
+17159,va,
+17167,ca,san diego
+17171,hi,
+17173,co,denver
+17175,il,chicago
+17185,ny,
+17223,wa,washington
+17240,ny,new york
+17243,tn,
+17245,ny,new york
+17248,ca,san francisco
+17265,ca,
+17279,ks,
+17296,ny,new york
+17299,la,los angeles
+17305,ny,new york
+17308,nv,
+17309,mo,
+17313,il,chicago
+17317,ca,los angeles
+17319,tx,houston
+17320,tx,
+17324,ca,
+17347,nj,
+17353,ma,boston
+17356,il,chicago
+17359,ny,new york
+17360,ny,new york
+17369,ca,san diego
+17372,ca,
+17373,ca,
+17374,ca,
+17375,ca,
+17376,ca,
+17378,nj,
+17379,ca,san diego
+17380,ca,san diego
+17381,ca,san diego
+17382,ca,san diego
+17384,tx,
+17389,ny,new york
+17394,ca,san diego
+17395,ny,
+17398,ny,new york
+17400,ca,san diego
+17402,il,
+17406,ca,
+17414,tx,dallas
+17415,wa,washington
+17417,mi,
+17422,oh,
+17436,ca,
+17438,or,
+17444,ri,
+17448,fl,
+17450,il,chicago
+17451,tx,houston
+17460,ca,los angeles
+17468,ct,
+17472,fl,
+17473,tx,austin
+17479,pr,
+17481,ca,san francisco
+17484,ca,san francisco
+17486,ca,los angeles
+17488,fl,
+17489,fl,
+17491,fl,
+17493,fl,
+17494,ri,
+17495,fl,
+17496,fl,
+17497,fl,
+17498,fl,
+17499,fl,
+17502,fl,
+17505,fl,
+17507,fl,
+17508,fl,
+17515,ny,new york
+17519,il,chicago
+17530,or,
+17533,az,
+17546,il,chicago
+17559,ny,new york
+17567,oh,
+17569,oh,columbus
+17570,oh,columbus
+17571,oh,columbus
+17575,ca,
+17578,ca,los angeles
+17581,ny,new york
+17584,or,portland
+17591,or,portland
+17593,ca,
+17594,co,denver
+17599,ri,
+17602,ca,
+17605,ny,new york
+17606,tx,
+17616,wi,
+17620,ca,
+17621,ca,
+17622,or,portland
+17644,tx,
+17645,or,portland
+17646,il,chicago
+17656,ca,san francisco
+17659,wa,washington
+17667,ca,
+17671,ca,
+17676,ri,
+17691,ca,san francisco
+17702,ca,
+17704,ca,los angeles
+17712,ca,
+17713,ca,
+17714,ca,
+17715,ca,
+17718,ca,
+17720,ut,
+17723,il,chicago
+17727,ca,
+17729,pa,philadelphia
+17730,ny,new york
+17737,nj,
+17742,ga,
+17746,va,
+17747,fl,
+17752,tn,memphis
+17763,tn,memphis
+17766,ny,new york
+17788,tx,austin
+17801,ca,
+17802,ca,
+17803,ca,
+17804,ca,
+17805,ca,
+17817,ca,
+17818,ca,
+17821,ca,
+17834,az,
+17835,ca,
+17846,tx,houston
+17848,tx,houston
+17850,ca,san francisco
+17852,ca,san francisco
+17854,tn,
+17866,ny,new york
+17879,tn,memphis
+17892,pa,philadelphia
+17895,az,
+17902,ny,new york
+17908,wa,washington
+17909,ny,
+17915,nj,
+17919,tx,dallas
+17920,az,
+17923,az,
+17926,ny,new york
+17949,tx,austin
+17952,nv,las vegas
+17954,tx,dallas
+17982,tx,dallas
+17996,il,chicago
+18018,ny,new york
+18032,ri,
+18039,ny,
+18048,pa,philadelphia
+18053,ca,los angeles
+18056,ny,new york
+18058,ny,
+18059,ca,
+18063,tx,dallas
+18079,il,chicago
+18090,wa,washington
+18092,az,
+18095,ca,los angeles
+18098,wa,washington
+18099,ri,
+18120,mn,
+18125,ca,san francisco
+18126,ca,san francisco
+18138,wa,washington
+18159,nj,
+18162,il,chicago
+18178,ca,
+18180,ca,
+18181,ca,
+18182,ca,
+18183,ca,
+18214,va,
+18235,nj,
+18248,in,indianapolis
+18262,nj,
+18266,ca,los angeles
+18267,oh,columbus
+18277,md,
+18284,tx,houston
+18322,az,
+18337,ca,
+18370,ca,
+18372,ca,san francisco
+18389,ca,san jose
+18392,ca,
+18413,fl,
+18417,ca,
+18418,ca,
+18419,ca,
+18420,ca,
+18421,ca,
+18429,pa,philadelphia
+18438,tx,houston
+18463,pr,
+18492,hi,
+18494,ca,los angeles
+18499,ca,
+18507,ct,
+18528,ca,
+18534,wi,
+18539,oh,columbus
+18555,or,portland
+18567,ca,los angeles
+18579,nj,
+18587,tx,
+18598,az,phoenix
+18603,az,phoenix
+18604,az,phoenix
+18608,az,phoenix
+18613,az,phoenix
+18614,az,phoenix
+18615,az,phoenix
+18616,az,phoenix
+18617,az,phoenix
+18618,az,phoenix
+18620,az,phoenix
+18622,az,phoenix
+18625,az,phoenix
+18626,az,phoenix
+18629,ca,los angeles
+18669,az,phoenix
+18676,tx,
+18682,mo,
+18686,mo,
+18748,ny,
+18755,va,
+18762,oh,
+18771,co,
+18774,ca,los angeles
+18777,ca,
+18782,oh,columbus
+18783,oh,columbus
+18784,oh,columbus
+18803,ca,san diego
+18804,co,denver
+18815,ca,
+18816,sd,los angeles
+18836,wa,washington
+18843,ca,
+18859,az,
+18860,ia,
+18878,sc,
+18887,ca,los angeles
+18895,ca,
+18903,ca,los angeles
+18904,ca,
+18911,ca,san diego
+18912,ca,
+18918,fl,
+18935,az,
+18956,ca,
+18959,va,
+18961,ny,
+18965,fl,
+18976,mi,
+18984,nv,las vegas
+18996,ca,san diego
+19001,ut,
+19005,ca,san francisco
+19007,ca,
+19019,ut,
+19024,ca,los angeles
+19025,ma,
+19027,ca,
+19032,ca,los angeles
+19035,ca,
+19057,tx,
+19060,co,denver
+19068,tx,
+19071,nv,las vegas
+19074,tn,
+19079,ia,
+19082,ca,los angeles
+19099,co,denver
+19101,fl,
+19103,fl,
+19107,nv,las vegas
+19111,ny,new york
+19112,la,los angeles
+19113,ca,
+19123,il,chicago
+19124,az,phoenix
+19137,ny,new york
+19147,tx,el paso
+19150,az,phoenix
+19166,fl,
+19176,wa,washington
+19183,ut,
+19184,ny,new york
+19186,ca,los angeles
+19188,ca,san francisco
+19190,ny,
+19207,pa,philadelphia
+19209,ga,
+19216,ca,san francisco
+19226,mi,
+19228,ny,new york
+19229,ny,new york
+19238,fl,
+19247,ny,new york
+19249,ar,
+19258,wa,washington
+19265,ny,new york
+19266,ny,new york
+19268,or,portland
+19288,fl,
+19289,ma,boston
+19290,ga,
+19316,ca,san francisco
+19319,md,baltimore
+19320,ca,
+19323,ca,
+19326,nj,
+19328,nj,
+19330,ga,
+19336,ca,
+19338,nv,
+19341,co,denver
+19346,tx,san antonio
+19347,tx,san antonio
+19357,ca,los angeles
+19358,nc,
+19363,nv,las vegas
+19364,ca,los angeles
+19368,wa,seattle
+19378,ca,los angeles
+19388,nc,
+19408,wa,
+19411,ca,san francisco
+19426,wa,washington
+19437,ca,los angeles
+19452,nc,
+19457,fl,
+19459,ga,
+19465,wi,
+19466,ca,los angeles
+19467,pa,
+19471,ca,
+19482,ca,
+19484,or,portland
+19487,ca,
+19488,az,phoenix
+19490,ga,
+19491,md,baltimore
+19496,tn,
+19497,ca,
+19499,nc,
+19500,ky,
+19506,pr,
+19508,mi,
+19513,tx,
+19514,ca,
+19516,ca,
+19522,ca,los angeles
+19524,ca,
+19525,tx,austin
+19532,ca,
+19533,ca,
+19542,ca,
+19547,il,chicago
+19551,co,denver
+19552,co,denver
+19553,or,portland
+19557,md,baltimore
+19568,tx,
+19571,ca,san jose
+19574,tx,
+19578,nc,
+19587,ga,
+19589,az,
+19604,nc,
+19614,tn,memphis
+19615,ca,los angeles
+19617,ga,
+19626,nj,
+19630,wi,
+19632,az,phoenix
+19636,ca,san diego
+19639,wi,
+19641,va,
+19642,az,
+19644,az,phoenix
+19645,me,
+19647,ca,
+19651,tn,memphis
+19653,la,
+19654,ca,
+19657,md,
+19668,ca,
+19669,ca,
+19672,hi,
+19677,ca,
+19679,ca,
+19682,ca,san francisco
+19685,ca,san francisco
+19693,ca,
+19696,ca,
+19698,ca,
+19699,ut,
+19700,ca,
+19701,ca,los angeles
+19702,de,
+19703,nc,
+19711,fl,
+19712,ca,los angeles
+19714,ca,
+19718,wa,washington
+19726,il,chicago
+19729,ny,new york
+19733,nh,
+19739,ok,
+19743,ca,los angeles
+19747,tn,memphis
+19749,ny,
+19750,nc,
+19755,il,chicago
+19756,ny,new york
+19759,al,
+19766,il,chicago
+19771,tx,
+19772,ny,new york
+19776,ga,
+19780,ca,san francisco
+19785,il,chicago
+19791,va,
+19797,mi,
+19806,il,chicago
+19807,ny,new york
+19809,fl,
+19810,oh,columbus
+19811,fl,
+19812,fl,
+19813,fl,
+19827,ca,los angeles
+19833,nj,
+19838,oh,columbus
+19840,oh,columbus
+19845,ca,
+19851,ga,
+19854,ca,
+19855,ca,
+19856,ca,
+19857,ca,
+19858,ca,
+19860,mi,
+19861,ca,
+19864,ut,
+19872,fl,
+19873,ca,los angeles
+19874,ny,new york
+19877,ca,
+19883,fl,
+19889,mi,
+19892,ut,
+19894,ga,
+19897,ca,
+19899,ca,
+19901,ca,san diego
+19909,mo,
+19910,ca,los angeles
+19912,ca,
+19913,dc,washington
+19914,dc,washington
+19922,fl,
+19924,ca,san diego
+19926,ca,
+19928,mi,
+19931,nc,
+19934,hi,
+19940,ga,
+19947,tn,
+19949,oh,
+19957,ca,
+19958,ca,
+19960,il,chicago
+19977,nv,las vegas
+19981,sc,
+19984,oh,
+19989,nc,
+20005,ny,new york
+20006,ca,
+20007,ny,new york
+20018,va,
+20023,wa,washington
+20032,tx,austin
+20034,tx,austin
+20035,pa,philadelphia
+20046,fl,
+20057,nj,
+20060,ny,new york
+20069,ca,
+20071,ga,
+20076,dc,
+20077,ca,
+20079,pa,philadelphia
+20085,ga,
+20095,ut,
+20096,ny,new york
+20103,ny,new york
+20106,md,washington
+20129,wi,
+20145,tx,
+20146,wi,
+20151,tn,memphis
+20152,ca,
+20158,ca,los angeles
+20165,or,portland
+20171,ca,
+20182,ca,
+20183,ct,
+20191,nc,
+20200,ma,boston
+20209,nv,las vegas
+20212,ny,new york
+20213,ca,
+20214,ca,
+20215,ca,
+20216,ca,
+20217,ca,
+20219,ca,
+20220,ca,los angeles
+20224,co,denver
+20228,nv,las vegas
+20234,nc,
+20235,oh,columbus
+20263,nj,
+20267,pa,philadelphia
+20272,mn,
+20280,ga,
+20281,ca,
+20282,ca,
+20284,wa,seattle
+20295,ut,
+20296,ca,
+20297,co,denver
+20308,fl,jacksonville
+20311,ny,new york
+20322,il,chicago
+20324,wa,washington
+20330,oh,
+20336,co,denver
+20338,wa,washington
+20343,ma,
+20355,fl,
+20361,ga,
+20362,tn,
+20363,ga,
+20374,md,
+20379,al,
+20381,ca,los angeles
+20386,ok,
+20392,tn,memphis
+20397,mi,
+20410,tn,memphis
+20418,tx,houston
+20419,il,chicago
+20436,ca,
+20456,ca,
+20460,in,
+20461,nc,
+20465,ny,
+20479,tx,dallas
+20480,tx,dallas
+20481,tx,dallas
+20482,ny,new york
+20485,tx,dallas
+20486,tx,dallas
+20487,tx,dallas
+20488,tx,dallas
+20489,tx,dallas
+20490,tx,dallas
+20493,tx,dallas
+20494,tx,dallas
+20496,tx,dallas
+20497,tx,dallas
+20498,tx,dallas
+20500,tx,dallas
+20506,tx,houston
+20508,il,chicago
+20516,wa,washington
+20523,nc,
+20527,tn,memphis
+20528,pa,philadelphia
+20529,ca,
+20531,nc,
+20551,ca,
+20552,co,denver
+20553,tx,
+20559,fl,
+20566,oh,columbus
+20574,ny,new york
+20577,ca,
+20578,ca,
+20580,ca,
+20581,ca,
+20583,ca,
+20588,ny,new york
+20590,nc,
+20594,ca,san diego
+20596,va,
+20604,ca,
+20607,in,indianapolis
+20617,va,
+20619,mi,
+20621,tx,houston
+20622,nc,
+20627,pa,philadelphia
+20642,fl,
+20646,pa,philadelphia
+20647,il,chicago
+20654,tx,austin
+20656,mi,
+20660,ca,san francisco
+20666,ny,new york
+20667,ca,los angeles
+20672,ca,san francisco
+20689,ny,new york
+20693,ca,san francisco
+20725,ca,
+20750,ca,san francisco
+20763,ca,san francisco
+20768,mi,
+20782,mi,
+20792,mi,
+20793,pa,
+20815,va,
+20825,tn,
+20830,wa,washington
+20831,ca,
+20832,wa,washington
+20837,ca,
+20841,ca,
+20847,ca,los angeles
+20854,oh,columbus
+20862,ca,
+20863,ca,
+20864,ca,
+20865,ca,
+20867,ca,
+20870,wi,milwaukee
+20874,ma,
+20895,oh,
+20896,ct,
+20905,nv,las vegas
+20906,ct,
+20912,ca,san francisco
+20916,md,
+20929,wi,milwaukee
+20932,ms,
+20934,mi,
+20939,fl,
+20941,oh,columbus
+20942,ca,san francisco
+20943,wa,seattle
+20953,ca,
+20954,co,denver
+20968,fl,
+20972,ca,los angeles
+20976,ca,san diego
+20977,wa,seattle
+20978,wa,seattle
+20979,wa,seattle
+20980,wa,seattle
+20981,wa,seattle
+20982,wa,seattle
+20983,wa,seattle
+20985,wa,seattle
+20986,wa,seattle
+20989,wa,seattle
+20992,wa,seattle
+20993,wa,seattle
+20995,wa,seattle
+20996,wa,seattle
+20997,wa,seattle
+20998,wa,seattle
+21009,ca,
+21030,ca,los angeles
+21053,ca,
+21064,ga,
+21067,ca,
+21069,ca,
+21071,ga,
+21075,ca,
+21079,va,
+21088,ny,
+21104,ca,
+21125,fl,
+21132,mi,
+21143,oh,columbus
+21144,oh,columbus
+21145,oh,columbus
+21146,oh,columbus
+21147,or,
+21165,ca,
+21173,ny,
+21174,ny,
+21179,ca,los angeles
+21184,wa,seattle
+21198,tx,
+21217,pa,philadelphia
+21221,nj,
+21234,ca,san francisco
+21244,ca,los angeles
+21246,il,chicago
+21253,ca,los angeles
+21277,ny,
+21291,ma,
+21292,ca,los angeles
+21294,nc,
+21299,ga,
+21314,nv,las vegas
+21315,ca,san francisco
+21322,fl,
+21324,ma,boston
+21333,wa,
+21347,ca,san francisco
+21349,il,chicago
+21353,ca,
+21361,il,chicago
+21364,ca,
+21365,ca,
+21366,ca,
+21367,ca,
+21369,ca,
+21370,ca,
+21375,pa,philadelphia
+21376,tx,
+21383,il,chicago
+21384,ca,san diego
+21385,ca,
+21386,ca,
+21392,oh,
+21402,il,chicago
+21411,ca,
+21412,ca,
+21415,il,chicago
+21419,ca,san francisco
+21421,ca,san francisco
+21422,oh,columbus
+21423,oh,columbus
+21425,il,chicago
+21431,ca,san francisco
+21432,wa,
+21433,ca,los angeles
+21435,ca,san francisco
+21447,ca,
+21454,ca,
+21455,ca,
+21456,ca,
+21457,ca,
+21458,nv,las vegas
+21459,nv,las vegas
+21460,nv,las vegas
+21461,nv,las vegas
+21462,nv,las vegas
+21463,nv,las vegas
+21464,nv,las vegas
+21468,ca,
+21470,ny,
+21480,ca,los angeles
+21481,tx,
+21482,ut,
+21483,ca,
+21490,ca,san francisco
+21512,ut,
+21513,mn,
+21524,mn,
+21525,ca,los angeles
+21536,mo,
+21537,ca,san francisco
+21546,ca,
+21547,ny,
+21556,ca,
+21560,ca,
+21571,nv,las vegas
+21583,ca,
+21585,ca,
+21588,az,
+21591,tx,
+21592,fl,
+21595,wa,seattle
+21599,ca,
+21606,ca,san francisco
+21607,nv,las vegas
+21609,co,
+21613,il,chicago
+21622,ny,
+21623,ga,
+21640,tx,
+21645,ma,boston
+21651,dc,washington
+21657,wa,seattle
+21660,ca,
+21663,va,
+21671,ny,new york
+21676,tx,
+21677,tx,
+21678,ca,
+21684,fl,
+21685,ca,los angeles
+21688,tx,san antonio
+21703,co,denver
+21708,nj,
+21715,ca,san francisco
+21716,wa,
+21718,tx,
+21725,az,phoenix
+21733,ca,
+21734,fl,
+21738,nj,
+21739,ca,
+21742,ca,
+21743,ca,
+21744,ca,
+21745,ca,
+21746,ca,
+21747,ca,san francisco
+21750,ny,new york
+21752,ca,san francisco
+21758,fl,
+21760,ny,new york
+21764,ny,new york
+21774,ca,
+21781,nc,
+21784,nv,las vegas
+21803,md,baltimore
+21804,tn,
+21805,sd,los angeles
+21806,al,
+21813,oh,columbus
+21814,or,portland
+21819,ca,
+21820,co,
+21827,wa,washington
+21830,tx,houston
+21842,ca,los angeles
+21847,ca,los angeles
+21851,ny,new york
+21866,fl,
+21868,ca,
+21870,ny,new york
+21872,fl,
+21884,ca,los angeles
+21889,fl,
+21891,ut,
+21895,la,los angeles
+21902,al,
+21905,tx,houston
+21915,il,chicago
+21922,ny,new york
+21926,il,chicago
+21932,ca,
+21935,il,chicago
+21936,ca,
+21937,ny,new york
+21939,ny,new york
+21942,ny,new york
+21945,co,
+21948,ca,
+21951,ct,
+21953,ca,
+21954,ca,los angeles
+21955,nj,
+21956,sc,
+21962,ca,los angeles
+21963,ca,
+21964,az,
+21966,ca,los angeles
+21967,ca,los angeles
+21977,ca,los angeles
+21979,ca,san diego
+21982,ny,new york
+21986,ca,
+21987,ca,
+21988,tx,
+21993,ca,san francisco
+21994,sc,
+21995,ca,
+21996,ca,
+21997,ca,
+22001,ny,
+22004,wi,
+22022,fl,
+22023,ca,
+22025,ca,los angeles
+22029,ny,new york
+22030,ca,
+22033,ca,los angeles
+22034,ca,los angeles
+22037,nv,las vegas
+22042,al,
+22043,oh,
+22054,mt,
+22062,nm,
+22064,al,
+22066,al,
+22067,al,
+22076,ny,
+22079,ca,los angeles
+22083,nv,las vegas
+22084,oh,
+22097,tn,
+22101,ca,
+22102,ca,
+22103,ca,
+22105,ca,
+22107,tx,
+22115,fl,
+22117,ca,san francisco
+22118,ma,boston
+22120,ca,los angeles
+22122,tx,dallas
+22126,sd,
+22131,id,
+22138,ms,
+22141,la,los angeles
+22147,ga,
+22152,ca,
+22153,ny,
+22155,ca,
+22157,ca,
+22158,fl,
+22162,tx,houston
+22164,va,
+22165,ca,san francisco
+22168,al,
+22169,ny,new york
+22170,fl,
+22171,oh,columbus
+22172,oh,columbus
+22180,ca,san diego
+22183,ca,san francisco
+22189,fl,
+22190,ca,
+22198,nv,las vegas
+22205,ny,new york
+22208,tn,
+22215,il,chicago
+22217,ma,
+22220,ny,new york
+22228,ca,san francisco
+22256,wa,seattle
+22258,nh,
+22267,nv,las vegas
+22270,va,
+22272,ca,los angeles
+22273,ny,new york
+22274,la,los angeles
+22275,ga,
+22280,wi,milwaukee
+22281,ny,new york
+22282,fl,
+22286,al,
+22288,ut,
+22295,wi,milwaukee
+22298,ny,new york
+22299,wi,milwaukee
+22301,pa,philadelphia
+22303,ut,
+22304,az,
+22305,tx,
+22306,wi,milwaukee
+22307,wa,seattle
+22319,ny,new york
+22324,ny,new york
+22325,ny,new york
+22338,tx,
+22343,ca,los angeles
+22354,ut,
+22356,ct,
+22357,ga,
+22360,pa,philadelphia
+22369,ca,
+22372,fl,
+22373,ne,
+22374,ca,san diego
+22375,ia,
+22376,tx,
+22386,tn,
+22389,tx,houston
+22390,ca,los angeles
+22394,fl,
+22396,wa,washington
+22400,ca,san diego
+22404,ca,
+22407,nv,las vegas
+22410,nc,
+22413,ca,
+22420,az,
+22422,ca,los angeles
+22425,ma,boston
+22437,ga,
+22440,ca,
+22441,ny,new york
+22446,ny,new york
+22448,ca,
+22452,ca,los angeles
+22454,ca,san francisco
+22458,pa,
+22460,pa,philadelphia
+22463,ca,los angeles
+22466,oh,
+22469,ny,new york
+22472,il,chicago
+22473,ca,
+22474,ca,los angeles
+22476,wa,washington
+22479,il,chicago
+22486,al,
+22488,or,
+22494,wa,washington
+22499,co,denver
+22502,ga,
+22503,va,
+22509,va,
+22511,ny,new york
+22515,ca,san francisco
+22516,ca,san francisco
+22518,ks,
+22524,ny,new york
+22525,la,los angeles
+22534,tx,fort worth
+22539,fl,
+22540,ca,
+22542,mi,
+22546,al,
+22547,ca,san diego
+22551,ut,
+22552,ca,
+22555,ca,
+22556,ca,
+22558,ny,new york
+22563,ga,
+22564,oh,
+22565,ny,new york
+22566,ny,
+22569,wa,washington
+22580,tn,
+22588,ca,
+22589,wi,
+22591,hi,
+22593,ca,los angeles
+22595,ga,
+22598,nc,
+22599,nc,
+22604,ut,
+22607,nc,
+22610,ca,
+22611,ca,
+22612,ca,
+22613,ca,
+22614,ca,
+22623,ca,los angeles
+22624,wi,
+22625,ca,los angeles
+22629,ca,
+22632,az,
+22633,fl,
+22638,ca,los angeles
+22640,ca,san francisco
+22641,tn,
+22642,ca,los angeles
+22669,fl,
+22681,ca,
+22682,ca,
+22683,ca,
+22684,ca,
+22686,ca,
+22688,ny,new york
+22701,ca,los angeles
+22702,al,
+22703,tx,houston
+22709,ca,
+22711,ca,los angeles
+22721,fl,
+22727,ca,los angeles
+22729,al,
+22733,wa,washington
+22735,ut,
+22736,nc,charlotte
+22740,ca,
+22742,ca,san francisco
+22743,co,denver
+22744,il,chicago
+22748,ca,
+22750,wa,seattle
+22751,az,phoenix
+22758,fl,
+22767,co,denver
+22772,ca,
+22778,tx,austin
+22782,oh,columbus
+22785,az,
+22795,nc,charlotte
+22803,oh,columbus
+22804,oh,columbus
+22805,oh,columbus
+22808,nc,
+22810,ca,san francisco
+22811,ca,san francisco
+22819,ny,new york
+22827,co,denver
+22835,al,
+22836,ca,
+22838,al,
+22844,ca,san francisco
+22857,ca,
+22861,al,
+22863,ca,
+22866,ca,
+22867,md,
+22872,al,
+22873,ky,
+22874,al,
+22876,al,
+22878,al,
+22887,al,
+22888,ks,
+22889,ks,
+22890,ks,
+22891,al,
+22895,in,
+22900,ny,new york
+22907,ca,san francisco
+22913,ca,san francisco
+22914,mi,detroit
+22915,il,chicago
+22916,nv,las vegas
+22922,ny,new york
+22923,tx,
+22925,ca,los angeles
+22927,tn,
+22929,ca,
+22931,co,denver
+22935,ca,
+22941,oh,columbus
+22942,tx,houston
+22946,tx,
+22949,ca,san francisco
+22950,co,denver
+22952,va,
+22965,ca,los angeles
+22968,ca,
+22979,ca,
+22982,az,phoenix
+22983,co,denver
+22986,ca,
+22993,ny,new york
+22998,ca,
+23001,wa,washington
+23002,ca,
+23017,ga,
+23021,ny,
+23022,ut,
+23024,ca,los angeles
+23027,az,phoenix
+23028,az,phoenix
+23045,ny,
+23067,tx,houston
+23069,ca,san francisco
+23072,fl,
+23075,ny,new york
+23097,co,denver
+23113,fl,
+23118,wa,seattle
+23126,tn,memphis
+23143,ny,new york
+23150,ny,new york
+23154,ga,
+23169,nh,
+23173,tx,houston
+23179,tx,austin
+23183,ca,
+23186,ca,
+23192,ca,
+23193,ut,
+23197,wa,washington
+23200,fl,
+23205,ut,
+23221,az,
+23227,fl,
+23228,ca,los angeles
+23229,ny,new york
+23232,tx,
+23241,az,
+23245,tx,
+23249,ky,
+23250,mn,austin
+23254,tx,
+23257,ct,
+23258,nj,
+23259,pa,
+23262,fl,
+23263,oh,
+23266,oh,
+23274,ca,
+23276,ca,
+23279,ar,
+23281,al,
+23282,az,
+23293,ca,
+23294,ca,
+23295,ca,
+23296,ca,
+23297,ca,
+23303,co,denver
+23307,fl,
+23312,ca,los angeles
+23315,ca,los angeles
+23317,ca,
+23322,ga,
+23330,ca,los angeles
+23351,ny,
+23355,az,phoenix
+23359,ma,boston
+23362,ny,new york
+23365,oh,
+23367,tx,houston
+23371,ma,boston
+23374,sd,
+23376,tx,houston
+23390,tx,austin
+23394,ca,
+23401,pa,
+23420,ny,new york
+23421,ma,
+23427,tn,
+23432,co,denver
+23433,co,denver
+23434,wa,washington
+23440,fl,
+23441,mi,detroit
+23447,ca,san francisco
+23452,ma,boston
+23455,oh,columbus
+23458,wa,washington
+23468,ca,los angeles
+23469,tx,
+23472,ca,
+23474,nc,
+23482,wa,washington
+23484,wa,seattle
+23490,nc,
+23496,ga,
+23498,ca,
+23499,ky,
+23500,tx,
+23502,ca,
+23515,ny,new york
+23518,pa,philadelphia
+23541,ca,san francisco
+23542,ny,new york
+23547,fl,
+23553,id,
+23557,ca,san diego
+23560,co,denver
+23566,va,
+23571,tn,
+23587,wa,washington
+23590,wi,milwaukee
+23594,nc,
+23598,az,
+23604,ny,new york
+23622,tx,dallas
+23623,ca,san jose
+23633,nc,
+23651,ca,
+23652,fl,
+23654,fl,
+23665,ga,
+23668,ny,
+23672,fl,
+23673,ca,
+23675,ny,
+23676,il,chicago
+23677,nj,
+23683,il,chicago
+23690,tx,houston
+23695,fl,
+23697,ca,san francisco
+23698,ny,new york
+23718,oh,
+23721,ga,
+23739,dc,washington
+23746,fl,
+23750,va,
+23752,nc,
+23753,ca,san francisco
+23755,oh,
+23758,wa,washington
+23759,nv,las vegas
+23764,il,
+23767,ny,new york
+23773,sc,
+23774,ga,
+23782,mi,
+23785,oh,
+23790,va,
+23792,oh,
+23798,ny,new york
+23800,tx,houston
+23801,ca,san francisco
+23803,ny,
+23807,oh,
+23808,or,portland
+23812,tx,
+23816,mi,
+23817,va,
+23818,ny,
+23821,mn,
+23823,ca,los angeles
+23824,md,
+23825,ar,
+23829,tx,
+23832,fl,
+23834,la,
+23839,tx,
+23840,il,
+23841,ks,
+23844,nc,
+23846,ma,
+23850,mi,
+23851,ny,new york
+23856,nc,
+23857,fl,
+23860,ar,
+23862,mi,
+23864,ok,
+23866,pa,
+23870,ct,
+23872,ca,
+23873,ca,
+23874,ca,
+23875,ca,
+23877,ca,
+23879,fl,
+23887,ri,
+23909,ca,
+23927,nv,las vegas
+23934,mi,
+23938,fl,
+23959,ma,boston
+23967,tn,
+23975,ma,boston
+23979,va,
+23983,va,
+23985,pa,
+23992,fl,
+23995,fl,
+24017,ny,
+24021,mi,
+24033,co,denver
+24035,oh,columbus
+24045,ny,
+24049,mi,
+24050,ny,
+24054,wa,washington
+24068,fl,
+24070,fl,
+24075,ma,
+24085,md,
+24092,ny,new york
+24096,fl,
+24102,ma,boston
+24104,oh,columbus
+24114,fl,
+24115,tx,austin
+24142,mn,
+24155,ca,san francisco
+24160,ca,san francisco
+24163,tn,
+24165,fl,
+24174,fl,
+24186,ny,
+24187,ca,san francisco
+24195,ca,
+24234,fl,
+24249,fl,
+24255,tx,austin
+24257,tn,
+24269,tx,fort worth
+24292,nc,
+24294,ny,new york
+24303,il,chicago
+24311,fl,
+24325,ca,
+24326,ca,
+24327,ca,
+24328,ca,
+24330,ca,
+24336,ma,
+24340,ny,new york
+24350,pa,philadelphia
+24359,nv,las vegas
+24373,fl,
+24391,pa,
+24393,fl,
+24397,fl,
+24399,fl,
+24405,tx,
+24432,wa,washington
+24435,fl,
+24436,oh,columbus
+24438,oh,columbus
+24466,ca,
+24510,ny,new york
+24517,fl,
+24534,ca,
+24538,ca,
+24543,ca,
+24544,ca,
+24549,ca,
+24552,ca,
+24559,ca,
+24588,ca,
+24589,ca,san francisco
+24629,ca,
+24661,oh,columbus
+24663,ca,los angeles
+24669,oh,columbus
+24714,co,
+24728,pa,philadelphia
+24738,tx,houston
+24744,oh,columbus
+24745,oh,columbus
+24751,oh,columbus
+24752,nj,
+24755,oh,
+24756,ca,san francisco
+24758,ny,new york
+24759,ny,new york
+24773,ny,new york
+24785,wa,
+24795,ut,
+24796,ny,new york
+24801,ca,los angeles
+24804,ca,
+24812,fl,
+24816,ma,boston
+24817,ut,
+24830,ma,
+24831,ny,new york
+24836,pa,
+24849,nv,
+24854,ca,
+24858,nh,
+24869,mn,
+24874,la,los angeles
+24878,sc,
+24880,oh,columbus
+24884,nc,charlotte
+24887,ca,
+24897,ca,san diego
+24902,ca,
+24904,il,chicago
+24930,ca,san francisco
+24936,ca,
+24944,oh,columbus
+24948,ca,
+24949,ca,
+24950,ca,
+24951,ca,
+24953,ca,
+24956,oh,columbus
+24957,oh,columbus
+24958,oh,columbus
+24984,oh,columbus
+24988,ga,
+25005,nm,
+25009,ca,
+25012,ca,los angeles
+25022,ny,
+25033,nh,
+25037,md,
+25040,wa,washington
+25062,tx,
+25072,ca,
+25084,ny,
+25100,nv,las vegas
+25101,oh,
+25103,nv,las vegas
+25107,mn,
+25112,fl,
+25117,al,
+25121,ma,boston
+25148,fl,
+25169,mn,
+25182,ca,san francisco
+25183,tx,fort worth
+25192,ca,
+25221,tx,houston
+25252,ny,new york
+25259,ny,
+25260,ca,los angeles
+25266,ny,new york
+25271,ca,
+25275,ca,los angeles
+25276,ca,
+25280,nv,las vegas
+25281,nv,las vegas
+25283,fl,
+25289,il,chicago
+25291,va,
+25299,ca,los angeles
+25300,ga,
+25306,az,phoenix
+25311,tn,
+25320,wa,washington
+25323,az,
+25325,oh,
+25333,ga,
+25335,il,
+25337,ca,
+25338,ca,
+25339,ca,
+25340,ca,
+25341,ca,
+25344,ny,new york
+25351,ga,
+25354,va,
+25358,ga,
+25360,ny,new york
+25364,fl,
+25366,ca,
+25371,fl,
+25377,pa,philadelphia
+25380,fl,
+25385,ma,
+25393,fl,
+25397,wa,
+25407,ca,
+25414,wa,washington
+25415,ca,san francisco
+25416,ca,
+25417,ma,boston
+25419,il,chicago
+25425,ca,los angeles
+25432,ca,
+25439,ca,san diego
+25444,fl,
+25447,ca,los angeles
+25456,fl,
+25457,fl,
+25458,la,los angeles
+25461,tx,
+25476,ca,
+25484,tx,
+25491,ky,
+25492,mn,austin
+25496,tx,
+25499,ct,
+25500,pa,
+25503,nj,
+25504,oh,
+25506,fl,
+25509,oh,
+25517,ca,
+25519,ca,
+25522,ar,
+25524,az,
+25525,al,
+25534,nc,
+25539,ca,los angeles
+25543,ca,san jose
+25544,oh,columbus
+25545,oh,columbus
+25546,oh,columbus
+25547,oh,columbus
+25548,nc,
+25550,nc,
+25552,wa,washington
+25554,fl,
+25555,fl,
+25558,wa,washington
+25565,ca,
+25571,nj,
+25573,az,
+25575,fl,
+25577,az,phoenix
+25578,md,baltimore
+25579,fl,
+25582,ut,
+25583,az,phoenix
+25584,md,baltimore
+25585,az,phoenix
+25586,md,baltimore
+25587,az,phoenix
+25588,ut,
+25589,az,phoenix
+25595,ny,new york
+25597,la,los angeles
+25598,fl,
+25607,ca,
+25608,tx,
+25611,ma,boston
+25614,il,chicago
+25616,ca,los angeles
+25618,fl,
+25624,ca,san francisco
+25625,mi,
+25631,sd,
+25634,wa,seattle
+25636,mi,
+25653,nc,
+25655,fl,
+25657,nm,
+25662,ga,
+25665,pa,philadelphia
+25672,ca,
+25673,sd,
+25676,ny,new york
+25678,ca,
+25680,ca,
+25682,ca,
+25683,ca,
+25685,ny,
+25688,tx,
+25692,co,denver
+25693,tx,
+25694,tx,
+25695,tx,
+25707,ut,
+25709,ca,
+25710,il,chicago
+25716,ca,
+25725,nv,las vegas
+25738,ca,
+25739,ny,new york
+25741,ga,
+25743,sc,
+25746,mo,
+25747,pr,
+25748,fl,
+25754,mo,
+25759,mo,
+25760,ma,boston
+25761,mo,
+25762,nj,
+25763,mo,
+25764,fl,
+25766,mo,
+25769,pr,
+25772,mo,
+25773,mo,
+25776,ny,new york
+25778,mo,
+25780,mo,
+25781,mo,
+25782,tx,dallas
+25783,mo,
+25785,mo,
+25786,fl,
+25789,mo,
+25793,mo,
+25796,mo,
+25804,md,
+25805,ma,boston
+25806,wa,washington
+25807,ca,los angeles
+25811,ca,
+25816,or,
+25817,ny,new york
+25818,ca,
+25820,ny,new york
+25822,wi,
+25825,md,baltimore
+25840,il,chicago
+25847,ca,
+25849,nc,
+25851,co,
+25861,ca,
+25862,ca,
+25863,ca,
+25864,ca,
+25865,ca,
+25877,ca,los angeles
+25879,il,chicago
+25882,mn,
+25888,tx,
+25894,ca,
+25896,ca,
+25905,tx,houston
+25906,ny,new york
+25907,ca,
+25910,tx,houston
+25912,wa,seattle
+25913,ca,san francisco
+25914,tx,
+25916,ca,san jose
+25920,tx,houston
+25923,nv,las vegas
+25927,il,chicago
+25940,tx,
+25942,mo,
+25946,ny,new york
+25948,tx,
+25953,ny,new york
+25970,nv,las vegas
+25981,ca,
+25983,ca,
+26005,mi,detroit
+26009,tx,austin
+26011,tx,austin
+26015,oh,
+26016,ny,new york
+26017,ca,
+26019,fl,
+26020,nc,
+26024,tx,houston
+26027,wa,washington
+26029,ca,
+26033,nj,
+26035,wa,washington
+26036,ca,san francisco
+26042,az,
+26063,ca,
+26069,fl,
+26072,ca,
+26073,tx,austin
+26077,ca,san jose
+26080,tx,
+26087,ca,san francisco
+26092,oh,columbus
+26093,fl,
+26097,fl,
+26101,fl,
+26105,mo,
+26108,wa,washington
+26112,ny,new york
+26113,ar,
+26123,ri,
+26124,ca,los angeles
+26137,ny,new york
+26146,fl,
+26148,ca,san francisco
+26150,ca,
+26186,ri,
+26190,md,
+26191,fl,
+26192,fl,
+26196,ca,los angeles
+26200,ut,
+26205,ca,
+26207,az,phoenix
+26208,az,phoenix
+26211,ca,
+26214,ca,
+26215,ri,
+26220,la,los angeles
+26226,il,chicago
+26230,ny,new york
+26238,oh,
+26240,ca,
+26243,ca,
+26245,ca,san diego
+26250,tn,
+26252,ca,
+26268,tx,
+26274,wa,
+26289,ca,
+26290,ca,san francisco
+26292,nc,
+26295,ks,
+26296,ca,los angeles
+26297,tx,
+26302,az,
+26303,ny,new york
+26309,il,chicago
+26315,fl,
+26318,ma,
+26322,ny,new york
+26340,fl,
+26343,tx,houston
+26347,ny,new york
+26349,vt,
+26355,wa,
+26356,ks,
+26357,ny,new york
+26358,ca,los angeles
+26366,ca,san diego
+26367,wa,washington
+26381,ca,los angeles
+26384,tx,austin
+26388,wi,
+26390,tx,
+26401,ca,
+26404,ma,boston
+26409,ny,
+26415,ca,los angeles
+26417,ca,los angeles
+26433,tx,austin
+26435,ny,new york
+26446,ri,
+26447,tx,austin
+26452,ga,
+26457,ca,
+26458,ca,
+26460,ca,
+26461,ca,
+26465,ca,
+26477,fl,
+26482,fl,
+26485,fl,
+26487,ca,san francisco
+26497,oh,
+26507,ma,
+26511,ca,los angeles
+26513,ca,los angeles
+26521,la,los angeles
+26525,ca,
+26526,ca,
+26527,ca,
+26528,ca,
+26529,ca,
+26533,ca,los angeles
+26537,ca,los angeles
+26542,wa,washington
+26545,ut,
+26547,ca,los angeles
+26551,wa,washington
+26557,tx,san antonio
+26560,ma,boston
+26561,il,chicago
+26565,ca,
+26567,il,chicago
+26571,il,chicago
+26580,ca,los angeles
+26592,ca,
+26593,ca,
+26594,ny,new york
+26597,ri,
+26599,ny,
+26604,ca,
+26606,nc,
+26609,ca,san francisco
+26610,ca,
+26611,ca,
+26612,ca,los angeles
+26613,wi,
+26614,ca,
+26615,ny,new york
+26616,fl,
+26620,ca,
+26624,ca,los angeles
+26625,tx,
+26630,wi,
+26631,ut,
+26634,ny,new york
+26635,oh,
+26636,oh,
+26639,nj,
+26643,fl,
+26644,fl,
+26645,tx,austin
+26647,tx,
+26648,ca,san francisco
+26649,il,chicago
+26657,ca,los angeles
+26658,fl,
+26664,fl,
+26666,fl,
+26674,ca,
+26675,ca,san francisco
+26679,fl,
+26682,ma,boston
+26683,ca,san diego
+26688,oh,
+26689,pa,philadelphia
+26691,ca,
+26696,ca,san francisco
+26708,ny,new york
+26714,ca,
+26716,pa,philadelphia
+26718,md,baltimore
+26724,nj,
+26725,md,baltimore
+26726,nv,las vegas
+26728,ri,
+26730,ma,boston
+26742,ca,san francisco
+26750,tx,austin
+26756,ca,
+26758,nc,
+26763,ca,
+26766,ca,
+26767,tn,
+26768,ca,
+26773,wa,washington
+26780,co,
+26785,va,
+26787,ca,los angeles
+26792,ca,san francisco
+26800,ca,
+26804,ri,
+26805,ca,los angeles
+26806,nj,
+26808,ca,
+26812,ca,
+26813,ca,los angeles
+26814,fl,
+26818,ca,los angeles
+26827,ca,los angeles
+26831,ca,los angeles
+26833,wa,washington
+26838,ca,los angeles
+26839,oh,
+26842,ny,new york
+26845,or,
+26851,il,chicago
+26852,co,denver
+26856,ca,san francisco
+26858,nv,las vegas
+26859,tx,
+26860,tx,
+26862,ny,new york
+26864,wa,washington
+26866,ca,
+26867,il,chicago
+26870,ma,boston
+26872,ca,los angeles
+26876,fl,
+26884,dc,washington
+26885,nc,charlotte
+26892,nc,
+26897,ca,los angeles
+26898,ca,los angeles
+26901,wa,washington
+26903,ca,los angeles
+26904,ca,los angeles
+26906,mi,
+26907,fl,
+26915,wa,washington
+26923,fl,
+26931,tn,
+26932,ca,
+26940,az,
+26942,ca,
+26943,ca,
+26944,tn,
+26945,ca,
+26946,ca,
+26949,ca,
+26952,ca,los angeles
+26953,ca,los angeles
+26956,ny,new york
+26961,fl,
+26964,nc,charlotte
+26965,al,
+26967,ny,new york
+26969,ca,los angeles
+26970,tx,san antonio
+26979,ri,
+26984,ny,new york
+26985,tx,dallas
+26986,ga,
+26997,il,chicago
+27000,ny,new york
+27002,il,chicago
+27004,al,
+27005,fl,
+27006,mi,
+27007,fl,
+27018,ny,boston
+27027,tx,
+27031,ne,
+27032,ca,
+27047,ca,los angeles
+27052,nc,
+27053,ca,
+27057,ca,los angeles
+27063,ri,
+27064,ri,
+27066,ri,
+27079,fl,
+27081,ga,
+27084,ma,boston
+27090,tx,
+27093,la,los angeles
+27102,wa,washington
+27103,il,chicago
+27106,ca,san francisco
+27108,ma,boston
+27111,ca,los angeles
+27114,oh,columbus
+27117,fl,
+27118,tx,houston
+27123,il,chicago
+27125,ca,
+27132,ca,san francisco
+27133,ny,new york
+27135,va,
+27137,wa,seattle
+27139,nj,
+27140,fl,
+27141,ma,
+27145,il,chicago
+27152,ri,
+27161,la,
+27162,ny,new york
+27166,pa,philadelphia
+27171,ca,los angeles
+27178,fl,
+27179,ca,
+27187,ca,
+27199,fl,
+27200,il,
+27204,tx,san antonio
+27206,ca,los angeles
+27211,fl,
+27214,ca,san jose
+27217,fl,
+27219,fl,
+27222,nj,
+27226,ca,los angeles
+27229,ca,los angeles
+27236,ny,new york
+27239,il,chicago
+27242,ut,
+27243,fl,
+27253,tx,austin
+27255,ny,new york
+27276,il,chicago
+27277,il,chicago
+27288,ny,new york
+27302,ny,new york
+27304,ny,new york
+27311,ca,
+27314,nv,las vegas
+27315,ny,new york
+27332,ny,
+27333,fl,
+27336,va,
+27337,tx,
+27343,ca,
+27345,ny,new york
+27349,co,
+27351,mn,
+27352,co,
+27353,va,
+27356,in,indianapolis
+27365,ny,
+27366,ny,new york
+27370,ga,
+27371,oh,
+27375,wa,
+27376,wa,
+27388,ny,new york
+27396,va,
+27400,il,chicago
+27402,or,portland
+27410,ga,
+27412,ca,
+27413,ca,
+27414,ca,
+27415,ca,
+27416,ca,
+27418,ny,new york
+27420,ca,san francisco
+27426,la,los angeles
+27435,tx,dallas
+27443,ca,
+27448,fl,
+27450,ca,san francisco
+27451,ca,los angeles
+27452,ca,
+27464,nv,seattle
+27477,oh,
+27481,ca,
+27489,ca,
+27492,tx,austin
+27498,ga,
+27502,oh,
+27509,ca,los angeles
+27512,fl,
+27513,oh,columbus
+27514,oh,columbus
+27518,ca,los angeles
+27523,ca,los angeles
+27525,ga,
+27527,tx,
+27534,ma,boston
+27535,md,
+27542,oh,columbus
+27543,oh,columbus
+27555,ny,new york
+27557,ca,
+27564,fl,
+27570,ca,
+27585,ca,los angeles
+27587,nc,
+27589,ma,boston
+27605,nc,chicago
+27611,ca,los angeles
+27614,ca,los angeles
+27622,ca,
+27624,ca,
+27629,ca,los angeles
+27632,sc,
+27644,az,phoenix
+27645,ca,los angeles
+27649,ca,
+27650,ca,los angeles
+27654,ca,
+27659,ny,new york
+27661,md,
+27662,ca,
+27665,tx,
+27672,tx,
+27685,pa,philadelphia
+27703,ma,boston
+27708,fl,
+27721,tn,
+27731,va,
+27734,fl,
+27740,fl,
+27742,mo,
+27751,wa,washington
+27755,tx,fort worth
+27756,tx,fort worth
+27757,sd,
+27761,pa,
+27775,nj,
+27780,ca,los angeles
+27796,ca,san diego
+27843,ca,
+27844,ca,
+27845,ca,
+27846,ca,
+27849,ca,
+27853,tx,houston
+27868,fl,
+27872,md,baltimore
+27878,ca,san diego
+27899,nc,
+27901,mi,detroit
+27905,ca,los angeles
+27906,fl,
+27931,ny,new york
+27936,ny,new york
+27954,va,
+27970,ny,new york
+27979,oh,columbus
+27984,ca,
+28029,ca,los angeles
+28050,tn,
+28054,ca,los angeles
+28086,ca,
+28103,ut,
+28124,ca,
+28165,ca,los angeles
+28173,ca,san francisco
+28177,ca,
+28210,ca,
+28224,ca,
+28242,ca,
+28273,ny,new york
+28299,ca,los angeles
+28304,ny,
+28315,ca,los angeles
+28319,ca,los angeles
+28320,ca,
+28325,oh,columbus
+28334,ca,san diego
+28339,nv,las vegas
+28340,nv,las vegas
+28348,oh,columbus
+28350,sd,
+28351,ny,
+28367,ny,new york
+28377,fl,
+28381,ca,
+28383,az,
+28386,tx,houston
+28388,tx,houston
+28394,nc,
+28402,wa,seattle
+28405,ca,san francisco
+28406,ca,san francisco
+28411,ny,
+28413,nv,
+28414,ca,
+28415,ny,new york
+28419,ca,los angeles
+28425,ca,
+28427,ca,los angeles
+28433,ca,
+28438,ca,los angeles
+28445,nc,
+28446,nc,
+28447,nc,
+28458,il,chicago
+28472,ca,
+28473,ca,
+28474,ca,
+28475,ca,
+28477,ca,
+28486,ca,
+28494,fl,
+28522,ca,los angeles
+28531,tx,houston
+28545,ca,los angeles
+28561,fl,
+28569,nv,las vegas
+28571,oh,columbus
+28576,tx,
+28579,ny,
+28584,ca,
+28587,ca,
+28589,pa,philadelphia
+28591,il,
+28600,oh,columbus
+28601,oh,columbus
+28606,nc,charlotte
+28610,ca,san francisco
+28614,ga,
+28617,fl,
+28618,wa,washington
+28626,wa,washington
+28629,oh,columbus
+28630,ca,san francisco
+28631,il,chicago
+28635,wa,washington
+28637,wa,washington
+28640,il,chicago
+28645,co,denver
+28647,nv,las vegas
+28655,ca,
+28657,tx,
+28665,wa,seattle
+28674,ny,
+28688,la,los angeles
+28694,wi,
+28698,ca,los angeles
+28701,pa,philadelphia
+28702,ny,new york
+28707,va,
+28709,ca,
+28710,tn,memphis
+28712,va,
+28715,az,phoenix
+28717,nj,
+28721,ca,
+28727,ca,los angeles
+28728,pa,philadelphia
+28730,ny,new york
+28731,ca,los angeles
+28733,tn,
+28736,ca,los angeles
+28749,ca,los angeles
+28750,ca,los angeles
+28751,tx,
+28752,tx,
+28753,tx,
+28761,ny,new york
+28766,ca,los angeles
+28772,ca,san diego
+28775,ca,los angeles
+28781,nv,las vegas
+28784,nv,las vegas
+28785,nv,las vegas
+28786,nv,las vegas
+28787,nv,las vegas
+28788,ca,san francisco
+28790,ca,los angeles
+28797,fl,
+28800,va,
+28802,ca,los angeles
+28808,va,
+28817,nc,
+28818,ca,san francisco
+28822,ca,
+28823,ca,
+28824,ca,
+28825,la,los angeles
+28826,ca,
+28828,ca,
+28833,wa,washington
+28838,ca,los angeles
+28841,tn,
+28843,tn,memphis
+28850,ny,
+28863,dc,washington
+28869,tx,houston
+28871,nj,
+28880,ca,
+28885,ca,los angeles
+28886,ca,los angeles
+28888,wa,seattle
+28893,tx,austin
+28894,la,los angeles
+28902,fl,
+28903,oh,
+28905,ca,los angeles
+28912,il,chicago
+28913,wa,washington
+28919,wi,
+28924,va,
+28925,wa,washington
+28928,ca,
+28932,ny,new york
+28944,la,los angeles
+28956,ca,
+28957,la,los angeles
+28958,ca,
+28966,tx,
+28969,il,chicago
+28970,ca,los angeles
+28978,tn,memphis
+28981,ga,los angeles
+28982,ca,los angeles
+28983,ca,los angeles
+28984,ca,los angeles
+29002,ca,los angeles
+29015,oh,columbus
+29022,fl,
+29026,il,chicago
+29029,ca,
+29034,ca,los angeles
+29038,ca,los angeles
+29041,ca,los angeles
+29043,ca,los angeles
+29044,ca,los angeles
+29047,md,baltimore
+29049,wa,seattle
+29055,il,chicago
+29057,ca,los angeles
+29063,nj,
+29065,ca,
+29067,ca,
+29074,ca,los angeles
+29077,wa,washington
+29080,ny,new york
+29085,tx,
+29086,oh,
+29092,ca,san diego
+29101,ut,
+29102,sc,
+29106,wi,
+29111,az,
+29113,nv,
+29117,nv,
+29122,ny,new york
+29134,ca,
+29144,ca,los angeles
+29149,ca,los angeles
+29155,il,
+29162,nv,
+29165,ca,los angeles
+29166,wa,washington
+29167,wa,seattle
+29174,il,los angeles
+29175,fl,jacksonville
+29192,az,
+29199,ca,
+29210,il,chicago
+29211,la,los angeles
+29214,ca,
+29221,ca,los angeles
+29222,wa,seattle
+29226,oh,
+29228,ca,san diego
+29230,ca,los angeles
+29263,ca,
+29267,ca,los angeles
+29271,ca,los angeles
+29283,oh,
+29287,ca,
+29288,ca,
+29289,ca,
+29290,ca,
+29293,ca,
+29295,tx,
+29297,nv,las vegas
+29301,ca,los angeles
+29303,ca,los angeles
+29310,ca,los angeles
+29318,nc,
+29327,de,
+29334,ga,
+29337,co,
+29340,or,portland
+29351,ga,
+29357,mi,
+29360,fl,
+29367,il,chicago
+29370,co,
+29371,md,
+29374,ca,los angeles
+29375,az,
+29378,az,phoenix
+29379,ca,los angeles
+29380,nc,
+29388,ca,los angeles
+29389,nv,las vegas
+29390,nv,las vegas
+29392,ny,new york
+29393,co,
+29397,tx,dallas
+29400,al,
+29403,ca,
+29409,ny,new york
+29411,ny,new york
+29413,tn,memphis
+29415,ca,san francisco
+29418,ca,san francisco
+29420,ca,san francisco
+29422,ca,
+29428,ny,new york
+29431,ca,
+29437,ca,los angeles
+29441,ca,
+29447,ca,
+29448,ca,los angeles
+29450,fl,
+29451,mo,
+29452,nc,
+29455,md,
+29458,nj,
+29464,ca,
+29467,ny,new york
+29489,ca,
+29490,fl,
+29491,ca,los angeles
+29493,fl,
+29495,ca,
+29505,ma,boston
+29512,ny,
+29516,ca,
+29522,fl,
+29526,tn,memphis
+29535,ca,
+29536,ca,
+29545,nv,las vegas
+29548,fl,
+29550,al,
+29555,nc,
+29562,ny,new york
+29573,ga,
+29574,ny,
+29575,wa,washington
+29576,ma,boston
+29581,nv,las vegas
+29589,mi,
+29590,vt,
+29600,ok,
+29601,ny,new york
+29607,ma,boston
+29608,fl,
+29609,fl,
+29611,ca,
+29614,il,chicago
+29615,il,
+29625,ga,
+29628,ny,new york
+29631,ca,
+29645,ut,
+29655,il,chicago
+29656,ga,
+29659,ca,san diego
+29668,ca,
+29672,wa,washington
+29673,ca,san diego
+29677,ca,los angeles
+29678,ny,new york
+29679,ca,
+29680,tn,memphis
+29683,ca,
+29688,il,chicago
+29694,ca,
+29695,wa,seattle
+29703,mi,
+29710,il,chicago
+29714,tx,austin
+29718,wa,seattle
+29722,ca,
+29724,ar,
+29728,tn,memphis
+29729,la,los angeles
+29733,fl,
+29739,ca,los angeles
+29740,ca,san francisco
+29741,nj,
+29748,wa,washington
+29749,ny,new york
+29750,ca,
+29751,la,los angeles
+29755,nm,
+29763,la,los angeles
+29765,tx,houston
+29770,la,los angeles
+29771,oh,
+29776,md,
+29777,tx,houston
+29781,tx,austin
+29790,ny,new york
+29794,tx,austin
+29795,ca,san diego
+29796,md,
+29801,ok,
+29804,tx,houston
+29805,ca,
+29806,ca,
+29807,ca,
+29808,ca,
+29809,ca,
+29810,oh,columbus
+29812,mt,
+29813,la,los angeles
+29822,la,los angeles
+29825,fl,
+29826,tx,
+29831,tx,houston
+29832,ca,
+29835,la,
+29838,ak,
+29840,ca,
+29841,ga,
+29843,fl,
+29851,ca,
+29854,va,
+29858,ca,
+29859,ca,
+29860,ca,
+29861,ca,
+29863,ca,
+29864,nc,
+29872,il,chicago
+29874,nj,
+29878,ca,
+29880,tn,memphis
+29882,ca,
+29900,tn,memphis
+29901,nc,charlotte
+29903,ca,
+29908,fl,
+29911,in,
+29912,ca,
+29915,ca,san francisco
+29916,ga,
+29920,ca,
+29922,tx,austin
+29923,ca,los angeles
+29926,la,los angeles
+29930,oh,
+29933,la,los angeles
+29935,tx,houston
+29937,fl,
+29939,oh,
+29941,ca,los angeles
+29946,ca,los angeles
+29949,ca,los angeles
+29952,ca,los angeles
+29955,ca,san diego
+29958,ca,los angeles
+29963,nc,
+29965,tx,
+29970,tn,memphis
+29974,ny,new york
+29976,tx,austin
+29983,ca,
+29985,ca,los angeles
+29997,ca,los angeles
+29998,il,
+29999,il,
+30003,ca,
+30005,fl,
+30010,va,
+30011,fl,
+30013,ca,
+30019,ca,
+30030,al,
