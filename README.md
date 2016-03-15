@@ -12,7 +12,7 @@ _**Topic:**_ [An Exploratory Data Analysis of Uber Based on Twitter]
 3. __Want more data?__ - run the "script1-fetch" file under /code folder. You will get the most recent data about Uber on Twitter.
 4. __Want analysis?__ - find the corresponding script under /code folder for part of the analysis.
 5. __Want reproduce?__ - please ask one of the contributors for original dataset. And follow the further directions in Analysis section for reproducing.
-6.__Want some slides?__ - go the slide folder. There is a short representation there.
+6. __Want some slides?__ - go the slide folder. There is a short representation there.
 
 
 
