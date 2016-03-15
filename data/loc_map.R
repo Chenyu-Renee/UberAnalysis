@@ -25,7 +25,7 @@ theTable <- within(data2, STATE <- factor(STATE,
       decreasing=FALSE))))
 p1<- ggplot(subset(theTable, STATE %in% c("ca","ny","tx","fl","il","oh"))
        , aes(factor(STATE),fill=STATE))+
-  scale_fill_brewer(palette="Blues")+
+  scale_fill_brewer(palette="blue")+
   geom_bar()+
   labs(x="States")+
   ggtitle("Frequency of Tweets by State")+ 
@@ -41,6 +41,8 @@ p2<-ggplot(subset(data3, STATE %in% c("ca","ny","tx","fl","il","oh"))
        , aes(factor(STATE),fill=CITY))+
   geom_bar()+
   labs(x="States")+
+  scale_color_gradient(high="#ff0000", low="#ffffcc")+
+  #scale_fill_brewer(low = "darkgreen", mid = "white", high = "darkred")+
   ggtitle("Frequency of Tweets by State & City")+ 
   theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=20, hjust=0))+
   theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=15))+
@@ -60,13 +62,13 @@ map_data <- arrange(map_data, order)
 
 states <- data.frame(state.center, state.abb)
 data_keywords$STATE = sapply(data_keywords$STATE,casefold,upper=TRUE)
-colnames(data_keywords) = c("X","KEYWORD","state.abb" )
+colnames(data_keywords) = c("X","FREQ","KEYWORD","state.abb" )
 #sort keywords
 data_keywords = data_keywords[order(data_keywords$state.abb),]
 states = states[order(states$state.abb),]
 
 state_keyword <- merge(x = states,y = data_keywords, by="state.abb", all.x=TRUE)
-overlap_east = c("VT", "NH","MA","NJ","MD","DE","CT","RI")
+overlap_east = c("VT", "NH","MA","NJ","MD","DE","CT","RI", "HI","AK")
 y_in = 37.563
 for (i in overlap_east){
   state_keyword[state_keyword$state.abb==i, 2] = -70
@@ -119,26 +121,20 @@ p6 <- ggplot(data = map_data2, aes(x = long, y = lat, group = group))+
   geom_polygon(aes(fill = Freq))+
   geom_path(colour = 'white')+
   coord_map()+
-  geom_text(data = state_keyword, aes(x = x, y = y, label = state.abb, group = NULL), size = 8, colour="pink")+
+  geom_text(data = state_keyword, aes(x = x, y = y, label = state.abb, group = NULL), size = 10, colour="gray")+
   theme_bw()+
   ggtitle("Frequency of Tweets by States and Keyword per Capita")+
-  theme(plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=40, hjust=0))+
-  theme(axis.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=30))+
+  #theme(plot.title = element_text(hjust=0))+
+  theme(axis.title = element_text(size=30))+
   theme(text = element_text(size=40))+
   theme(legend.position = "right")+
   scale_fill_continuous(guide = guide_colorbar(reverse=TRUE),name = "Frequency Level")+
   labs(x="Longitude",y = "Latitude")+
   scale_size(range=c(5,20), guide="none")+
-  scale_color_gradient(high="#ff0000", low="#ffffcc")+
-  scale_fill_continuous(low = lowcar,high = highcar,na.value = 'grey')
+  theme(legend.text=element_text(size=40))+
+  theme(legend.position="bottom")
 p6
-ggsave("../figure/poster1.png",p6, width = 30, height = 20)
-
-
-
-
-
-
+ggsave("../figure/poster1.png",p6, width = 30, height = 20,dpi = 600)
 
 #city heat map
 map<- get_map(location="USA",zoom=4,maptype = "hybrid")
